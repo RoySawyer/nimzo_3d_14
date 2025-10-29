@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "בחר סט שחמט"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "בחר את סט השחמט התלת-ממדי לשימוש"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "רשימת ערכות שחמט תלת-ממדיות זמינות"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "בחירת ערכת שחמט.. - פותח תיבת דו-שיח לבחירת ערכת השחמט הנוכחית."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "לא ניתן לפתוח קובץ שמירת אפשרויות תלת-ממדיות"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "אפשרויות תלת-ממד נשמרו בקובץ"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "אפשרויות תלת-ממד לא נשמרו"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "לא ניתן לפתוח קובץ אפשרויות תלת-ממדיות"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "אפשרויות תלת-ממדיות נטענו מ"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "לא ניתן היה לקרוא את קובץ האפשרויות התלת-ממדיות"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "בחר סט שחמט תלת-ממדי לשימוש"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "תמונה של ערכת שחמט"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "פרטים על סט השחמט הנוכחי"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "תמונה של סט השחמט הנוכחי"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "צור סט שחמט"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "תיבת דו-שיח זו מאפשרת לך לבחור את סט השחמט התלת-ממדי הנוכחי."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "לחץ על החץ למטה של ​​תיבת הבחירה הנפתחת"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "כדי לחשוף רשימה של ערכות השחמט הזמינות."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "לחץ על סט שחמט כדי לראות את הפרטים והתמונה"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "של סט השחמט שנבחר."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "לחץ על אישור כדי לאשר את בחירתך."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "ספריות כלי השחמט עם קבצי ה-DirectX נמצאות בספרייה -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "ניתן להחליף את קבצי ה-DirectX בין הסטים"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "באמצעות סייר חלונות."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "מידע על רישיון -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC הוא ראשי תיבות של Creative Commons. לרישיון זה ישנם מספר גרסאות,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "אבל עם תוכנה חינמית כמו Nimzo_3d, זה אומר שאתה יכול להשתמש"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "ולהפיץ את המודל בכל דרך סבירה."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "הנה קישור לתיאורים המלאים של הרישיונות -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "הוא רישיון <שימוש אישי> עבור דוגמנים"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "באתר של Cults3d."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "בעיקרון זה אומר שהמודל מיועד לשימושך האישי ו"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "לא ניתן להפיץ מחדש ללא אישור יוצר המודל."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "הנה קישור לתיאור המלא של הרישיון -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "ניתן ליצור ערכות שחמט חדשות ממודלים תלת-ממדיים."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "השתמשתי בתוכנת Autodesk 3ds Max לתהליך הזה."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "תצטרך ממיר DirectX תואם עבור 3ds Max."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "אשר ניתן להוריד מהקישורים הבאים -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "עבור גרסאות חדשות יותר של 3ds Max -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "עבור גרסאות ישנות יותר של 3ds Max -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "יש להתקין את התוסף בתיקיית התוספים של 3ds Max."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "לאחר מכן אתה מייבא קובץ חתיכה ל-3ds Max, מקטין אותו לגודל הנכון,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "מרכז אותו באמצע הרשתות ולאחר מכן ייצא את המודל לקובץ DirectX."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "תצטרכו לחזור על תהליך שינוי קנה המידה, המרכז והיצוא מספר פעמים."
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "כדי לקבל את גודל החתיכה בצורה סביר."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "מצאתי שעדיף להתחיל עם המלך"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "ולהשאיר את תוכנת Nimzo_3d פתוחה במהלך התהליך,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "כדי שאוכל לעקוב אחר התוצאות ביתר קלות."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "מלכודת אחת שכדאי להיות מודעים לה היא שחלק מהמודלים התלת-ממדיים אינם כוללים"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "קואורדינטות מיפוי UV מובנות במודל."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "אלה נחוצים כדי שהחלקים יעוטפו במפת הסיביות."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "למרות שקיימות שיטות מורכבות יותר ליצירת"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "קואורדינטות UV, מצאתי שהאפשרויות המובנות די מספקות."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "לאחר בחירת המודל, לאחר מכן תבחר באפשרות <שנה>"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "מסרגל הכלים בחלון הצד הימני."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "לאחר מכן, גלול למטה ברשימה <רשימת שינויים> ו..."
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "במקטע < Object - space modifiers > לחץ על האפשרות < UVW Map >."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "לאחר מכן ישנן אפשרויות רבות לבחירה."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "אני בדרך כלל בוחר < לעטוף מתכווץ > < התאמה > < התאמת מפת סיביות >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "ולאחר מכן בחר מפת סיביות ריבועית של 256 פיקסלים, כמו אלה המשמשים ב-Nimzo_3d."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "לאחר מכן בחר <Export> ובחר את ממיר DirectX מהרשימה."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "הספרייה החדשה צריכה להיות באותו פורמט כמו הספריות הקיימות."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "לדוגמה < סט l - שם סט שחמט לפי המודל >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "המכתב צריך להיות הראשון שזמין בחינם לפי סדר אלפביתי."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "כלומר, אם הקבוצה האחרונה היא < קבוצה k > אז הקבוצה החדשה צריכה להיות < קבוצה l >"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "אם ברצונך שתמונה של הסט החדש שלך תוצג בתיבת הדו-שיח"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "ניתן ליצור צילום מסך של הסט בעזרת כלי החיתוך של Windows"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "והכניסו אותו לתיקייה החדשה. הוא צריך להיות ברוחב 250 פיקסלים ובגובה 200 פיקסלים."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "ניתן להוריד גרסת ניסיון חינמית של Autodesk 3ds Max"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "אם אין לך כבר אחד."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "ישנם גם ממירים של תוספי DirectX לעריכת מודלים תלת-ממדיים בחינם."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "תָכְנִית"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "אבל לא הצלחתי לגרום להם לעבוד כמו שצריך."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "ייתכן שתהיה לך יותר הצלחה."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "עזרה ביצירת סט שחמט ממודל תלת מימדי"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "שמור את אפשרויות התלת-ממד הנוכחיות לדיסק"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "טען את אפשרויות התלת-ממד הנוכחיות מהדיסק"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "עזרה בבחירת סט שחמט תלת-ממדי"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "יש קבוצה של"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "קבצי piece בכל ספרייה."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "ברגע שיש לך את השישה"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "קבצי piece, צור ספריית משנה חדשה ב"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "חמש ערכות חלקים דו-ממדיות חדשות (גרסה 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "עשר ערכות חלקים תלת-ממדיות חדשות (גרסה 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "לא נמצאו ספריות נוספות של ערכות שחמט תלת-ממדיות בדיסק,"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "אז אין עוד סטים תלת מימדיים לבחור מהם."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "אין ספריות של ערכות שחמט תלת-ממדיות בדיסק,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "אז גרפיקה תלת מימדית לא תעבוד."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "לחלק ממערכות השחמט התלת-ממדיות החדשות יש הרבה יותר קודקודים בכלים"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "מאשר הסט <המקורי>, מכיוון שהם תוכננו להדפסה תלת-ממדית"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "אם יש לכם מחשב ישן יותר, ייתכן שתגלו שהוא מתקשה"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "כדי להציג את הפריטים בזמן."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "הקבוצה עם ספירת הקודקודים הגבוהה ביותר היא סט השחמט <דוברובניק>."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "אז אם המחשב שלך עובד טוב עם זה,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "זה יהיה בסדר עם כל האחרים."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "אפשרויות שמירה"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "שמירת אפשרויות תלת-ממדיות"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "בחר קובץ .dxo כדי לשמור אפשרויות תלת-ממד"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "אפשרויות טעינה"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "טעינת אפשרויות תלת-ממדיות"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "בחר קובץ .dxo כדי לטעון אפשרויות תלת-ממדיות"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "שמירת אפשרויות.. - שמירת אפשרויות התלת-ממד הנוכחיות לקובץ."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "טעינת אפשרויות.. - טעינת אפשרויות התלת-ממד הנוכחיות מקובץ."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "שמור את אפשרויות התלת-ממד הנוכחיות לקובץ"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "טען את אפשרויות התלת-ממד הנוכחיות מקובץ"
