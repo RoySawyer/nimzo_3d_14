@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "选择国际象棋套装"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "选择要使用的3D国际象棋套装"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "现有3D国际象棋套装列表"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "选择国际象棋棋盘.. - 打开一个对话框，用于选择当前的国际象棋棋盘。"
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "无法打开 3D 选项保存文件"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "已将 3D 选项保存到文件"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3D选项未保存"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "无法打开 3D 选项文件"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "从以下位置加载 3D 选项"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "无法读取 3D 选项文件"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "选择要使用的3D国际象棋套装"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "国际象棋套装图片"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "当前国际象棋套装的详细信息"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "当前国际象棋套装的图片"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "创建一套国际象棋"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "此对话框允许您选择当前的 3D 国际象棋棋盘。"
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "点击下拉选择框的向下箭头"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "显示可供选择的国际象棋套装列表。"
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "点击国际象棋套装即可查看详情和图片。"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "选定的国际象棋套装。"
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "点击“确定”确认您的选择。"
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "包含 DirectX 文件的国际象棋棋子目录位于该目录中 -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "DirectX 片段文件可以在各个集合之间交换。"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "使用 Windows 资源管理器。"
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "许可证信息 -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC 代表知识共享 (Creative Commons)。该许可协议有多种变体，"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "但使用像 Nimzo_3d 这样的免费程序，意味着你可以使用"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "并以任何合理的方式分发该模型。"
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "以下是许可证完整说明的链接 -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "是模型的<个人使用>许可"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "在 Cults3d 网站上。"
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "基本上，这意味着该模型仅供您个人使用。"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "未经建模者许可，不得重新分发。"
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "以下是许可证的完整说明链接 -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "可以利用 3D 模型制作新的国际象棋棋具。"
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "我使用 Autodesk 3ds Max 来完成这个过程。"
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "您需要一个适用于 3ds Max 的 DirectX 转换器插件。"
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "可从以下链接下载 -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "适用于较新版本的 3ds Max -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "适用于旧版本的 3ds Max -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "该插件应安装在 3ds Max 插件目录中。"
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "然后将模型文件导入 3ds Max，将其缩放到正确的尺寸。"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "将其置于网格中心，然后将模型导出为 DirectX 文件。"
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "您需要重复几次缩放、居中和导出过程。"
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "使零件尺寸合理。"
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "我觉得最好从国王开始讲起。"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "在此过程中保持 Nimzo_3d 程序处于打开状态。"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "这样我就可以更轻松地监控结果。"
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "需要注意的一个陷阱是，有些3D模型没有"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "模型中内置了 UV 贴图坐标。"
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "这些是用来将各个部分包裹在位图里的。"
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "尽管还有更复杂的方法可以用来创建"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "对于 UV 坐标，我发现内置选项已经足够用了。"
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "选定模型后，选择“<修改>”选项"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "从右侧面板窗口的工具栏中。"
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "然后下拉<修饰符列表>，向下滚动列表并"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "在“对象 - 空间修改器”部分中，单击“UVW 贴图”选项。"
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "那么，就有很多选择。"
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "我通常选择<收缩包装><适应><位图适应>"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "然后选择一个 256 像素的正方形位图，就像 Nimzo_3d 中使用的那种。"
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "然后选择<导出>，并从列表中选择DirectX转换器。"
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "新目录的格式应与现有目录相同。"
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "例如 < Set l - 建模者命名的国际象棋套装 >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "信件应为按字母顺序排列的第一个空信。"
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "也就是说，如果最后一个集合是 <集合 k>，那么新的集合应该是 <集合 l>。"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "如果您希望在对话框中显示新设置的图像"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "您可以使用 Windows 截图工具截取该场景的屏幕截图。"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "并将其放入新目录中。它的尺寸应为宽 250 像素，高 200 像素。"
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "您可以下载 Autodesk 3ds Max 的免费试用版。"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "如果你还没有的话。"
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "此外，还有免费的 DirectX 插件转换器，可用于 3D 模型编辑。"
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "程序"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "但我无法让它们正常工作。"
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "你或许会取得更大的成功。"
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "如何根据 3D 模型创建国际象棋套装"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "将当前 3D 选项保存到磁盘"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "从磁盘加载当前 3D 选项"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "3D国际象棋套装选择指南"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "有一组"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "每个目录中都有文件。"
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "一旦你拥有了六个"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "将文件拆分，在 中创建一个新的子目录"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "五款全新 2D 拼图套装（版本 4.0）"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "十款全新3D积木套装（4.0版）"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "磁盘上未找到额外的3D国际象棋棋盘目录。"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "所以现在已经没有3D套装可供选择了。"
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "磁盘上没有3D国际象棋棋盘目录。"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "所以3D图形将无法正常工作。"
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "一些新型3D国际象棋棋子的顶点数量更多。"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "比<原版>套装更胜一筹，因为它们是为3D打印而设计的。"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "如果你的电脑比较老旧，你可能会发现它运行起来很吃力。"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "及时展出这些作品。"
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "顶点数最多的集合是 <杜布罗夫尼克> 国际象棋集合。"
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "如果你的电脑运行这个程序没问题的话，"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "和其他所有人相处都没问题。"
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "保存选项"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "保存 3D 选项"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "选择 .dxo 文件以保存 3D 选项"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "加载选项"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "加载 3D 选项"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "选择 .dxo 文件以加载 3D 选项"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "保存选项.. - 将当前 3D 选项保存到文件中。"
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "加载选项.. - 从文件中加载当前的 3D 选项。"
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "将当前 3D 选项保存到文件中"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "从文件中加载当前的 3D 选项"
