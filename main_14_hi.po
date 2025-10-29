@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "शतरंज सेट चुनें"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "उपयोग करने के लिए 3D शतरंज सेट का चयन करें"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "उपलब्ध 3डी शतरंज सेटों की सूची"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "शतरंज सेट का चयन करें.. - वर्तमान शतरंज सेट का चयन करने के लिए एक संवाद बॉक्स खोलता है।"
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "3D विकल्प सेव फ़ाइल नहीं खोली जा सकती"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3D विकल्प फ़ाइल में सहेजे गए"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3D विकल्प सहेजे नहीं गए"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "3D विकल्प फ़ाइल नहीं खोली जा सकती"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3D विकल्प लोड किए गए"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "3D विकल्प फ़ाइल नहीं पढ़ी जा सकी"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "उपयोग करने के लिए 3D शतरंज सेट का चयन करें"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "शतरंज सेट की छवि"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "वर्तमान शतरंज सेट का विवरण"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "वर्तमान शतरंज सेट का चित्र"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "शतरंज का सेट बनाएँ"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "यह संवाद बॉक्स आपको वर्तमान 3डी शतरंज सेट का चयन करने की अनुमति देता है।"
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "ड्रॉप डाउन विकल्प बॉक्स के नीचे तीर पर क्लिक करें"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "उपलब्ध शतरंज सेटों की सूची दिखाने के लिए।"
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "विवरण और चित्र देखने के लिए शतरंज सेट पर क्लिक करें"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "चयनित शतरंज सेट का."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "अपने चयन की पुष्टि करने के लिए ओके पर क्लिक करें।"
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "डायरेक्टएक्स फाइलों के साथ शतरंज के टुकड़े की निर्देशिकाएं इस निर्देशिका में हैं -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "डायरेक्टएक्स टुकड़ा फ़ाइलों को सेटों के बीच स्वैप किया जा सकता है"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "विंडोज एक्सप्लोरर का उपयोग कर."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "लाइसेंस जानकारी -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC का मतलब क्रिएटिव कॉमन्स है। इस लाइसेंस के कई प्रकार हैं,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "लेकिन Nimzo_3d जैसे मुफ्त प्रोग्राम के साथ, इसका मतलब है कि आप उपयोग कर सकते हैं"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "और मॉडल को किसी भी उचित तरीके से वितरित करें।"
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "लाइसेंस के पूर्ण विवरण का लिंक यहां दिया गया है -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "मॉडलों के लिए < व्यक्तिगत उपयोग > लाइसेंस है"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "Cults3d वेबसाइट पर."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "मूलतः इसका अर्थ यह है कि मॉडल आपके अपने उपयोग के लिए है और"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "मॉडलर की अनुमति के बिना पुनः वितरित नहीं किया जा सकता।"
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "लाइसेंस के पूर्ण विवरण का लिंक यहां दिया गया है -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "3डी मॉडल से नये शतरंज सेट बनाए जा सकते हैं।"
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "मैंने इस प्रक्रिया के लिए ऑटोडेस्क 3डीएस मैक्स का उपयोग किया।"
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "आपको 3ds मैक्स के लिए प्लग-इन डायरेक्टएक्स कनवर्टर की आवश्यकता होगी।"
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "जिसे निम्नलिखित लिंक से डाउनलोड किया जा सकता है -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "3ds Max के नए संस्करणों के लिए -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "3ds Max के पुराने संस्करणों के लिए -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "प्लग-इन को 3ds मैक्स प्लग-इन निर्देशिका में स्थापित किया जाना चाहिए।"
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "फिर आप एक टुकड़ा फ़ाइल को 3ds मैक्स में आयात करते हैं, इसे सही आकार में घटाते हैं,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "इसे ग्रिड के मध्य में केन्द्रित करें और फिर मॉडल को डायरेक्टएक्स फ़ाइल में निर्यात करें।"
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "आपको स्केल, केंद्र और निर्यात प्रक्रिया को कई बार दोहराना होगा"
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "टुकड़े का आकार उचित रखने के लिए।"
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "मुझे राजा से शुरुआत करना सबसे अच्छा लगा"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "और प्रक्रिया के दौरान Nimzo_3d प्रोग्राम को खुला रखें,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "ताकि मैं परिणामों पर अधिक आसानी से नजर रख सकूं।"
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "एक नुकसान जिसके बारे में आपको पता होना चाहिए, वह यह है कि कुछ 3D मॉडल में यह सुविधा नहीं होती है।"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "मॉडल में निर्मित यूवी मानचित्रण निर्देशांक।"
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "बिटमैप के साथ टुकड़ों को लपेटने के लिए इनकी आवश्यकता होती है।"
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "यद्यपि इसे बनाने के लिए अधिक जटिल विधियाँ उपलब्ध हैं"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "यूवी निर्देशांक, मैंने पाया कि अंतर्निहित विकल्प काफी पर्याप्त हैं।"
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "मॉडल का चयन करने के बाद, आप < संशोधित करें > विकल्प का चयन करें"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "दाएँ हाथ की ओर पैनल विंडो में टूलबार से।"
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "फिर < संशोधक सूची > ड्रॉप डाउन करें सूची को नीचे स्क्रॉल करें और"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "<ऑब्जेक्ट - स्पेस मॉडिफायर्स> अनुभाग से <यूवीडब्ल्यू मैप> विकल्प पर क्लिक करें।"
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "फिर चुनने के लिए कई विकल्प हैं।"
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "मैं आमतौर पर < श्रिंक रैप > < फिट > < बिटमैप फिट > का चयन करता हूँ"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "और फिर एक वर्गाकार 256 पिक्सेल बिटमैप का चयन करें, जैसे कि Nimzo_3d में उपयोग किया गया है।"
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "फिर < Export > का चयन करें और सूची से DirectX कनवर्टर चुनें।"
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "नई निर्देशिका का प्रारूप मौजूदा निर्देशिका के समान ही होना चाहिए।"
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "उदाहरण < सेट l - मॉडलर द्वारा शतरंज सेट का नाम >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "यह पत्र वर्णमालानुसार उपलब्ध पहला निःशुल्क पत्र होना चाहिए।"
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "अर्थात यदि अंतिम सेट < सेट k > है तो नया सेट < सेट l > होना चाहिए"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "यदि आप अपने नए सेट की छवि संवाद बॉक्स में प्रदर्शित करना चाहते हैं"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "आप विंडोज स्निपिंग टूल से सेट का स्क्रीनशॉट ले सकते हैं"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "और इसे नई डायरेक्टरी में डालें। यह 250 पिक्सेल चौड़ा और 200 पिक्सेल ऊँचा होना चाहिए।"
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "आप Autodesk 3ds Max का निःशुल्क परीक्षण संस्करण डाउनलोड कर सकते हैं"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "यदि आपके पास पहले से कोई नहीं है।"
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "निःशुल्क 3D मॉडल संपादन के लिए DirectX प्लग-इन कन्वर्टर्स भी उपलब्ध हैं"
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "कार्यक्रम"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "लेकिन मैं उन्हें ठीक से काम नहीं करवा सका।"
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "आपको अधिक सफलता मिल सकती है."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "3D मॉडल से शतरंज सेट बनाने में सहायता"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "वर्तमान 3D विकल्पों को डिस्क पर सहेजें"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "डिस्क से वर्तमान 3D विकल्प लोड करें"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "3D शतरंज सेट चुनने में सहायता"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "वहाँ एक सेट है"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "प्रत्येक निर्देशिका में टुकड़ा फ़ाइलें।"
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "एक बार जब आपके पास छह हो जाएं"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "टुकड़ा फ़ाइलें, एक नई उप-निर्देशिका बनाएँ"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "पांच नए 2डी पीस सेट (संस्करण 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "दस नए 3D पीस सेट (संस्करण 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "डिस्क पर अतिरिक्त 3डी शतरंज सेट निर्देशिकाएं नहीं मिलीं,"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "इसलिए अब चुनने के लिए कोई 3D सेट नहीं है।"
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "डिस्क पर कोई 3D शतरंज सेट निर्देशिका नहीं है,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "इसलिए 3डी ग्राफिक्स काम नहीं करेगा."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "कुछ नए 3डी शतरंज सेटों में मोहरों में कई और शीर्ष होते हैं"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "< मूल > सेट की तुलना में, क्योंकि वे 3डी प्रिंटिंग के लिए डिज़ाइन किए गए थे"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "यदि आपके पास पुराना कंप्यूटर है, तो आपको यह समस्या हो सकती है"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "समय पर टुकड़ों को प्रदर्शित करने के लिए।"
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "सबसे अधिक शीर्ष संख्या वाला सेट < डबरोवनिक > शतरंज सेट है।"
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "तो अगर आपका कंप्यूटर इसके साथ अच्छी तरह से काम करता है,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "बाकी सभी के साथ सब ठीक रहेगा।"
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "विकल्प सहेजें"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "3D विकल्प सहेजें"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "3D विकल्पों को सहेजने के लिए .dxo फ़ाइल का चयन करें"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "लोड विकल्प"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "3D विकल्प लोड करें"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "3D विकल्प लोड करने के लिए .dxo फ़ाइल चुनें"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "विकल्प सहेजें.. - वर्तमान 3D विकल्पों को एक फ़ाइल में सहेजें।"
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "विकल्प लोड करें.. - किसी फ़ाइल से वर्तमान 3D विकल्प लोड करें।"
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "वर्तमान 3D विकल्पों को एक फ़ाइल में सहेजें"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "किसी फ़ाइल से वर्तमान 3D विकल्प लोड करें"
