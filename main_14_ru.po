@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Выбрать шахматный набор"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Выберите набор 3D-шахмат для использования"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Список доступных наборов 3D-шахмат"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Выбрать набор шахмат.. - Открывает диалоговое окно для выбора текущего набора шахмат."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Невозможно открыть файл сохранения параметров 3D."
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3D-параметры сохранены в файле"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3D-параметры не сохранены"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Невозможно открыть файл параметров 3D"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3D-опции загружены из"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Не удалось прочитать файл 3D-параметров"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Выберите набор 3D-шахмат для использования"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Изображение шахматного набора"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Подробная информация о текущем наборе шахмат"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Изображение текущего комплекта шахмат"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Создать шахматный набор"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Это диалоговое окно позволяет выбрать текущий набор 3D-шахмат."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Нажмите на стрелку вниз в раскрывающемся списке выбора."
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "чтобы раскрыть список доступных наборов шахмат."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Нажмите на шахматный набор, чтобы увидеть детали и изображение."
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "выбранного набора шахмат."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Нажмите «ОК», чтобы подтвердить свой выбор."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Каталоги шахматных фигур с файлами DirectX находятся в каталоге -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "Файлы деталей DirectX можно заменять между наборами."
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "с помощью проводника Windows."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Информация о лицензии -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC означает Creative Commons. Эта лицензия существует в нескольких вариантах:"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "но с такой бесплатной программой, как Nimzo_3d, это означает, что вы можете использовать"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "и распространять модель любым разумным способом."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Вот ссылка на полное описание лицензий -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "это лицензия <для личного использования> для моделей"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "на сайте Cults3d."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "По сути, это означает, что модель предназначена для вашего собственного использования и"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "не может быть распространена без разрешения разработчика модели."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Вот ссылка на полное описание лицензии -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Новые шахматные комплекты можно создавать из 3D-моделей."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Для этого процесса я использовал Autodesk 3ds Max."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Вам понадобится подключаемый модуль-конвертер DirectX для 3ds Max."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "которые можно скачать по следующим ссылкам -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "Для более новых версий 3ds Max -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "Для более старых версий 3ds Max -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Плагин должен быть установлен в каталог плагинов 3ds Max."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Затем вы импортируете файл детали в 3ds Max, уменьшаете его до нужного размера,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "центрируйте ее по центру сетки, а затем экспортируйте модель в файл DirectX."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Вам придется повторить процесс масштабирования, центрирования и экспорта несколько раз."
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "чтобы получить разумный размер куска."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Я посчитал, что лучше всего начать с короля."
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "и держите программу Nimzo_3d открытой во время процесса,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "чтобы мне было легче отслеживать результаты."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "Одна ловушка, о которой следует знать, заключается в том, что некоторые 3D-модели не имеют"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "Координаты UV-отображения встроены в модель."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Они необходимы для того, чтобы детали можно было обернуть в растровое изображение."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Хотя существуют и более сложные методы создания"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "UV-координат, я обнаружил, что встроенных опций вполне достаточно."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Выбрав модель, выберите опцию <Изменить>."
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "из панели инструментов в правой части окна панели."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Затем раскройте <Список модификаторов>, прокрутите список вниз и"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "в разделе <Модификаторы пространства объектов> выберите опцию <Карта UVW>."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "И тогда есть много вариантов выбора."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Я обычно выбираю < Термоусадочная пленка > < Подгонка > < Подгонка битового изображения >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "и затем выберите квадратное растровое изображение размером 256 пикселей, подобное тем, что используются в Nimzo_3d."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Затем выберите <Экспорт> и выберите конвертер DirectX из списка."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Новый каталог должен иметь тот же формат, что и существующие."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "например <Набор l - название набора шахмат по моделисту>"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Это должна быть первая свободная буква в алфавитном порядке."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "т.е. если последний набор — это <Set k>, то новый должен быть <Set l>"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Если вы хотите, чтобы изображение вашего нового набора отображалось в диалоговом окне"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "их можно сделать с помощью инструмента «Ножницы» в Windows"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "и поместите его в новый каталог. Размер файла должен быть 250 пикселей в ширину и 200 пикселей в высоту."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Вы можете загрузить бесплатную пробную версию Autodesk 3ds Max"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "если у вас его еще нет."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Существуют также плагины-конвертеры DirectX для бесплатного редактирования 3D-моделей."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "программа"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "но мне не удалось заставить их работать как следует."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Вы можете добиться большего успеха."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Помогите как создать шахматы из 3D модели"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Сохранить текущие 3D-параметры на диск"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Загрузить текущие 3D-параметры с диска"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Помощь в выборе 3D-шахмат"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Есть набор"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "файлы частей в каждом каталоге."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Как только у вас будет шесть"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "файлы частей, создайте новый подкаталог в"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Пять новых наборов 2D-деталей (версия 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Десять новых наборов 3D-деталей (версия 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Дополнительные каталоги 3D-шахмат на диске не обнаружены,"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "поэтому больше нет 3D-наборов для выбора."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "На диске нет каталогов с 3D-шахматами,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "поэтому 3D-графика работать не будет."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "В некоторых новых 3D-шахматах фигур гораздо больше вершин."
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "чем набор <Оригинал>, потому что они были разработаны для 3D-печати"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Если у вас старый компьютер, вы можете обнаружить, что он работает с трудом."
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "для своевременной демонстрации экспонатов."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Набор с наибольшим количеством вершин — это шахматный набор «Дубровник»."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Итак, если ваш компьютер хорошо с этим работает,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "со всеми остальными будет в порядке."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Сохранить параметры"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "Сохранить 3D-параметры"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Выберите файл .dxo для сохранения 3D-параметров."
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Параметры загрузки"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "Загрузить 3D-параметры"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Выберите файл .dxo для загрузки 3D-параметров."
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Сохранить параметры.. - Сохранить текущие 3D-параметры в файл."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Загрузить параметры.. - Загрузить текущие 3D-параметры из файла."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Сохранить текущие 3D-параметры в файл"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Загрузить текущие 3D-параметры из файла"
