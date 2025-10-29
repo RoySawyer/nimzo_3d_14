@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Sakkkészlet kiválasztása"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Válassza ki a használni kívánt 3D sakkkészletet"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Elérhető 3D sakkkészletek listája"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Sakkkészlet kiválasztása.. - Megnyit egy párbeszédpanelt az aktuális sakkkészlet kiválasztásához."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Nem tudom megnyitni a 3D beállítások mentési fájlját"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3D beállítások mentve a fájlba"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3D beállítások nincsenek mentve"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Nem tudom megnyitni a 3D beállítások fájlt"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3D opciók betöltése innen"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Nem sikerült beolvasni a 3D-s beállításfájlt"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Válassza ki a használni kívánt 3D sakkkészletet"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Sakkkészlet képe"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "A jelenlegi sakkkészlet részletei"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "A jelenlegi sakkkészlet képe"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Sakkkészlet létrehozása"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Ez a párbeszédpanel lehetővé teszi az aktuális 3D-s sakkkészlet kiválasztását."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Kattintson a legördülő menüben található lefelé mutató nyílra"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "hogy felfedje az elérhető sakkkészletek listáját."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Kattintson egy sakkkészletre a részletek és a kép megtekintéséhez"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "a kiválasztott sakkkészletből."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "A kiválasztás megerősítéséhez kattintson az Ok gombra."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "A DirectX fájlokat tartalmazó sakkfigurák könyvtárai a következő könyvtárban találhatók:"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "A DirectX darabfájlok cserélhetők a készletek között"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "Windows Intéző használatával."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Licencinformációk -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "A CC a Creative Commons rövidítése. Ennek a licencnek több változata létezik,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "de egy ingyenes programmal, mint például a Nimzo_3d, ez azt jelenti, hogy használhatod"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "és a modellt bármilyen ésszerű módon terjesztheti."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Itt a link a licencek teljes leírásához -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "a modellek < Személyes használatra > vonatkozó licence"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "a Cults3d weboldalán."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "Alapvetően azt jelenti, hogy a modell saját használatra készült, és"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "a modellező engedélye nélkül nem terjeszthető újra."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Itt a link a licenc teljes leírásához -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Új sakkkészletek hozhatók létre 3D modellekből."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Ehhez a folyamathoz az Autodesk 3ds Max programot használtam."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Szükséged lesz egy DirectX konverter bővítményre a 3ds Max-hoz."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "amely letölthető az alábbi linkekről -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "A 3ds Max újabb verzióihoz -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "A 3ds Max régebbi verzióihoz -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "A bővítményt a 3ds Max bővítmények könyvtárába kell telepíteni."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Ezután importálsz egy darabfájlt a 3ds Max-ba, lekicsinyíted a megfelelő méretre,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "középre igazítsd a rácsok közepére, majd exportáld a modellt egy DirectX fájlba."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Többször meg kell ismételnie a méretezés, középre állítás és exportálás folyamatát."
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "hogy a darab mérete megfelelő legyen."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Úgy találtam a legjobbnak, ha a királlyal kezdem."
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "és a folyamat során tartsd nyitva a Nimzo_3d programot,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "hogy könnyebben nyomon tudjam követni az eredményeket."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "Egyetlen buktató, amire figyelni kell, hogy egyes 3D modellek nem rendelkeznek"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "A modellbe épített UV-leképezési koordináták."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Ezekre szükség van ahhoz, hogy a darabokat a bitképpel együtt lehessen becsomagolni."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Bár léteznek bonyolultabb módszerek is a létrehozására"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "UV-koordinátákkal kapcsolatban úgy találtam, hogy a beépített opciók eléggé megfelelőek."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Miután kiválasztotta a modellt, válassza a < Módosítás > lehetőséget."
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "a jobb oldali ablakpanel eszköztáráról."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Ezután legördül a < Módosítólista > menüből Görgessen le a listából, és"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "az < Objektum - térmódosítók > részben kattintson az < UVW térkép > lehetőségre."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Akkor számos lehetőség közül lehet választani."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Általában a < Zsugorfóliázás > < Igazítás > < Bitkép illesztése > lehetőséget választom."
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "majd válasszon ki egy négyzet alakú, 256 pixeles bitképet, mint amilyeneket a Nimzo_3d-ben használnak."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Ezután válassza az < Export > lehetőséget, és válassza ki a DirectX konvertert a listából."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Az új könyvtárnak ugyanolyan formátumúnak kell lennie, mint a meglévőknek."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "pl. < l. készlet - sakkkészlet neve a modellező által >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "A betűnek ábécé sorrendben az első szabadnak kell lennie."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "azaz ha az utolsó halmaz < k halmaz >, akkor az új halmaznak < l halmaz >-nak kell lennie"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Ha azt szeretné, hogy az új készlet képe megjelenjen a párbeszédpanelen"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "Készíthetsz róluk képernyőképet a Windows Képernyőkép eszközével."
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "és tedd az új könyvtárba. 250 pixel szélesnek és 200 pixel magasnak kell lennie."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Letöltheti az Autodesk 3ds Max ingyenes próbaverzióját"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "ha még nincs ilyened."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Ingyenes 3D modellszerkesztéshez DirectX plug-in konverterek is elérhetők."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "program"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "de nem tudtam őket rendesen működésre bírni."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Lehet, hogy nagyobb sikereket érsz el."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Segítség sakkkészlet létrehozásához 3D-s modellből"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Az aktuális 3D-s beállítások mentése lemezre"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "A jelenlegi 3D-s beállítások betöltése lemezről"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Segítség 3D sakkkészlet kiválasztásához"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Van egy sor"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "darabfájlok minden könyvtárban."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Miután megvan a hat"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "darabfájlokhoz hozzon létre egy új alkönyvtárat a"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Öt új 2D-s darabkészlet (4.0 verzió)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Tíz új 3D-s darabkészlet (4.0-s verzió)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Nem találhatók extra 3D sakkkészlet-könyvtárak a lemezen."
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "így nincs több 3D-s készlet, amiből választhatnánk."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "Nincsenek 3D-s sakkkészlet-könyvtárak a lemezen,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "így a 3D grafika nem fog működni."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Néhány új 3D-s sakkkészlet bábui sokkal több csúcsponttal rendelkeznek."
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "mint az < Eredeti > készlet, mivel azokat 3D nyomtatásra tervezték"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Ha régebbi számítógéped van, előfordulhat, hogy nehézségekbe ütközöl"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "hogy a darabokat időben bemutassák."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "A legmagasabb csúcsszámú halmaz a < Dubrovnik > sakkkészlet."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Szóval, ha a számítógéped jól működik ezzel,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "a többivel minden rendben lesz."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Mentési beállítások"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "3D-s beállítások mentése"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Válassza ki a .dxo fájlt a 3D beállítások mentéséhez"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Betöltési lehetőségek"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "3D-s beállítások betöltése"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Válassza ki a .dxo fájlt a 3D-s beállítások betöltéséhez"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Beállítások mentése.. - Az aktuális 3D beállítások mentése egy fájlba."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Opciók betöltése.. - Az aktuális 3D-s opciók betöltése egy fájlból."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Az aktuális 3D-s beállítások mentése fájlba"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Az aktuális 3D-s beállítások betöltése egy fájlból"
