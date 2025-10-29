@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Schachset auswählen"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Wählen Sie das zu verwendende 3D-Schachset aus."
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Liste der verfügbaren 3D-Schachsets"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Schachset auswählen.. - Öffnet ein Dialogfeld zur Auswahl des aktuellen Schachsets."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Die 3D-Optionen-Speicherdatei kann nicht geöffnet werden."
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3D-Optionen in Datei gespeichert"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3D-Optionen nicht gespeichert"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Die 3D-Optionsdatei kann nicht geöffnet werden."
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3D-Optionen geladen von"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Die 3D-Optionsdatei konnte nicht gelesen werden."
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Wählen Sie das zu verwendende 3D-Schachset aus."
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Schachset-Bild"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Details zum aktuellen Schachset"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Abbildung des aktuellen Schachsets"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Schachset erstellen"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "In diesem Dialogfeld können Sie das aktuelle 3D-Schachset auswählen."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Klicken Sie auf den Abwärtspfeil des Dropdown-Auswahlfelds."
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "um eine Liste der verfügbaren Schachsets anzuzeigen."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Klicken Sie auf ein Schachspiel, um die Details und ein Bild zu sehen."
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "des ausgewählten Schachspiels."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Klicken Sie auf OK, um Ihre Auswahl zu bestätigen."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Die Verzeichnisse der Schachfiguren mit den DirectX-Dateien befinden sich im Verzeichnis -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "Die DirectX-Teildateien können zwischen den Sets ausgetauscht werden."
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "mit dem Windows Explorer."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Lizenzinformationen -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC steht für Creative Commons. Diese Lizenz existiert in mehreren Varianten."
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "Aber mit einem kostenlosen Programm wie Nimzo_3d bedeutet das, dass Sie es verwenden können."
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "und das Modell auf jede vernünftige Weise zu verbreiten."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Hier ist der Link zu den vollständigen Lizenzbeschreibungen -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "ist die < Persönliche Nutzung > Lizenz für Modelle"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "auf der Cults3d-Website."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "Im Grunde bedeutet es, dass das Modell für Ihren eigenen Gebrauch bestimmt ist und"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "Darf nicht ohne die Erlaubnis des Modellierers weiterverbreitet werden."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Hier ist der Link zur vollständigen Lizenzbeschreibung -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Neue Schachsets können aus 3D-Modellen erstellt werden."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Für diesen Prozess habe ich Autodesk 3ds Max verwendet."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Sie benötigen einen DirectX-Konverter als Plug-in für 3ds Max."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "diese können über die folgenden Links heruntergeladen werden -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "Für neuere Versionen von 3ds Max -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "Für ältere Versionen von 3ds Max -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Das Plug-in sollte im 3ds Max-Plug-in-Verzeichnis installiert werden."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Dann importiert man eine Teiledatei in 3ds Max und skaliert sie auf die richtige Größe herunter."
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "Zentrieren Sie es in der Mitte des Rasters und exportieren Sie das Modell anschließend in eine DirectX-Datei."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Sie müssen den Skalierungs-, Zentrierungs- und Exportvorgang mehrmals wiederholen."
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "um die Größe des Werkstücks in einem angemessenen Rahmen zu halten."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Ich fand es am besten, mit dem König anzufangen."
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "und lassen Sie das Programm Nimzo_3d während des gesamten Vorgangs geöffnet."
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "damit ich die Ergebnisse leichter überwachen konnte."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "Eine mögliche Fehlerquelle, die es zu beachten gilt, ist, dass einige 3D-Modelle nicht über"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "UV-Mapping-Koordinaten sind im Modell integriert."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Diese werden benötigt, damit die einzelnen Teile mit der Bitmap umhüllt werden können."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Obwohl komplexere Methoden zur Erstellung zur Verfügung stehen,"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "Bei den UV-Koordinaten habe ich festgestellt, dass die integrierten Optionen völlig ausreichend sind."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Nachdem Sie das Modell ausgewählt haben, wählen Sie die Option <Ändern>."
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "aus der Symbolleiste im rechten Seitenfenster."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Öffnen Sie dann die <Modifikatorliste>, scrollen Sie in der Liste nach unten und"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "Klicken Sie im Abschnitt < Objekt - Raummodifikatoren > auf die Option < UVW-Map >."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Dann stehen Ihnen viele Optionen zur Auswahl."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Ich wähle normalerweise < Shrink wrap > < Fit > < Bitmap fit >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "und wählen Sie dann eine quadratische 256-Pixel-Bitmap aus, wie sie beispielsweise in Nimzo_3d verwendet wird."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Wählen Sie anschließend < Exportieren > und wählen Sie den DirectX-Konverter aus der Liste aus."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Das neue Verzeichnis sollte das gleiche Format wie die bestehenden Verzeichnisse haben."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "z.B. < Set l - Schachset-Name vom Modellierer >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Es sollte der erste freie Buchstabe im Alphabet sein."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "d.h., wenn die letzte Menge <Menge k> ist, dann sollte die neue Menge <Menge l> sein."
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Wenn Sie ein Bild Ihres neuen Sets im Dialogfeld anzeigen lassen möchten"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "Anschließend können Sie mit dem Windows-Snipping-Tool einen Screenshot des Sets erstellen."
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "Legen Sie es in das neue Verzeichnis. Es sollte 250 Pixel breit und 200 Pixel hoch sein."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Sie können eine kostenlose Testversion von Autodesk 3ds Max herunterladen."
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "falls Sie noch keinen haben."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Es gibt auch kostenlose DirectX-Plug-in-Konverter für die 3D-Modellbearbeitung."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "Programm"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "Aber ich konnte sie nicht richtig zum Laufen bringen."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Vielleicht haben Sie mehr Erfolg."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Hilfe zur Erstellung eines Schachsets aus einem 3D-Modell"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Die aktuellen 3D-Optionen auf der Festplatte speichern."
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Die aktuellen 3D-Optionen von der Festplatte laden"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Hilfe zur Auswahl eines 3D-Schachsets"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Es gibt eine Reihe von"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "Die einzelnen Dateien befinden sich in jedem Verzeichnis."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Sobald Sie die sechs haben"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "Teiledateien, erstellen Sie ein neues Unterverzeichnis in"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Fünf neue 2D-Teilesets (Version 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Zehn neue 3D-Teilesets (Version 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Zusätzliche Verzeichnisse für 3D-Schachsets wurden auf der Festplatte nicht gefunden."
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "Es gibt also keine 3D-Sets mehr zur Auswahl."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "Es gibt keine Verzeichnisse für 3D-Schachsets auf der Festplatte."
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "3D-Grafiken funktionieren also nicht."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Einige der neuen 3D-Schachsets weisen deutlich mehr Eckpunkte in den Figuren auf."
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "als das <Original>-Set, da sie für den 3D-Druck konzipiert wurden."
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Wenn Sie einen älteren Computer besitzen, stellen Sie möglicherweise fest, dass er Schwierigkeiten hat."
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "um die Stücke zeitnah auszustellen."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Das Schachset mit der höchsten Knotenzahl ist das <Dubrovnik>-Schachset."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Wenn Ihr Computer also damit gut funktioniert,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "Mit allen anderen wird es kein Problem sein."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Speicheroptionen"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "3D-Optionen speichern"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Wählen Sie die .dxo-Datei aus, um die 3D-Optionen zu speichern."
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Ladeoptionen"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "3D-Optionen laden"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Wählen Sie die .dxo-Datei aus, um die 3D-Optionen zu laden."
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Optionen speichern… – Die aktuellen 3D-Optionen in einer Datei speichern."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Optionen laden.. - Die aktuellen 3D-Optionen aus einer Datei laden."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Die aktuellen 3D-Optionen in einer Datei speichern"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Laden Sie die aktuellen 3D-Optionen aus einer Datei"
