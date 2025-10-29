@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Valitse shakkisarja"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Valitse käytettävä 3D-shakkipeli"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Saatavilla olevien 3D-shakkisarjojen luettelo"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Valitse shakkisarja.. - Avaa valintaikkunan nykyisen shakkisarjan valitsemiseksi."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "3D-asetusten tallennustiedostoa ei voi avata"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3D-asetukset tallennettu tiedostoon"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3D-asetuksia ei tallennettu"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "3D-asetustiedostoa ei voi avata"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3D-asetukset ladattu osoitteesta"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "3D-asetustiedoston lukeminen epäonnistui"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Valitse käytettävä 3D-shakkipeli"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Shakkipelin kuva"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Nykyisen shakkisetin tiedot"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Kuva nykyisestä shakkisetistä"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Luo shakkisarja"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Tässä valintaikkunassa voit valita nykyisen 3D-shakkisarjan."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Napsauta alasvetovalikon valintaruudun alanuolta"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "paljastaaksesi luettelon saatavilla olevista shakkisarjoista."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Klikkaa shakkipeliä nähdäksesi tiedot ja kuvan"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "valitusta shakkisetistä."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Vahvista valintasi napsauttamalla Ok."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Shakkinappuloiden hakemistot DirectX-tiedostoineen ovat hakemistossa -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "DirectX-tiedostot voidaan vaihtaa sarjojen välillä"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "Windowsin resurssienhallinnan avulla."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Lisenssitiedot -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC on lyhenne sanoista Creative Commons. Tästä lisenssistä on useita muunnelmia,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "mutta ilmaisella ohjelmalla, kuten Nimzo_3d, se tarkoittaa, että voit käyttää"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "ja levittää mallia millä tahansa kohtuullisella tavalla."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Tässä on linkki lisenssien täydellisiin kuvauksiin -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "on mallien < Henkilökohtaiseen käyttöön> tarkoitettu lisenssi"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "Cults3d-verkkosivustolla."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "Pohjimmiltaan se tarkoittaa, että malli on tarkoitettu omaan käyttöön."
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "ei saa levittää edelleen ilman mallinnuksen tekijän lupaa."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Tässä on linkki lisenssin täydelliseen kuvaukseen -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Uusia shakkisarjoja voidaan luoda 3D-malleista."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Käytin tähän prosessiin Autodesk 3ds Maxia."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Tarvitset 3ds Maxia varten plug-in-tyyppisen DirectX-muuntimen."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "joka voidaan ladata seuraavista linkeistä -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "Uudemmat 3ds Max -versiot -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "Vanhemmille 3ds Max -versioille -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Laajennus tulisi asentaa 3ds Max -laajennusten hakemistoon."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Sitten tuot kappaletiedoston 3ds Maxiin, skaalaat sen oikeaan kokoon,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "keskitä se ruudukoiden keskelle ja vie sitten malli DirectX-tiedostoon."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Sinun on toistettava skaalaus, keskitys ja vienti useita kertoja"
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "jotta palan koko olisi kohtuullinen."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Mielestäni oli parasta aloittaa kuninkaasta."
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "ja pidä Nimzo_3d-ohjelma auki prosessin ajan,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "jotta voisin seurata tuloksia helpommin."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "Yksi sudenkuoppa, joka on hyvä tiedostaa, on se, että joissakin 3D-malleissa ei ole"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "Malliin sisäänrakennetut UV-kartoituskoordinaatit."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Näitä tarvitaan, jotta palaset voidaan kääriä bittikartan kanssa."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Vaikka on olemassa monimutkaisempiakin menetelmiä sen luomiseksi"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "UV-koordinaatit, havaitsin, että sisäänrakennetut vaihtoehdot ovat varsin riittävät."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Kun malli on valittu, valitse <Muokkaa>-vaihtoehto."
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "oikeanpuoleisen ikkunan työkalupalkista."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Sitten pudota alas < Muokkaajaluettelo > Vieritä luetteloa alaspäin ja"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "Napsauta <Objekti - tilanmuokkaajat> -osiosta <UVW-kartta> -vaihtoehtoa."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Sitten on monia vaihtoehtoja, joista valita."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Yleensä valitsen < Kutistuskääre > < Sovita > < Bittikartta-sovitus >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "ja valitse sitten neliönmuotoinen 256 pikselin bittikartta, kuten Nimzo_3d:ssä käytetyt."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Valitse sitten <Vie> ja valitse DirectX-muunnin luettelosta."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Uuden hakemiston tulisi olla samassa muodossa kuin olemassa olevat."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "esim. < Sarja l - shakkisarjan nimi mallinnuksen tekijän mukaan >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Kirjaimen tulisi olla aakkosjärjestyksessä ensimmäinen vapaana oleva kirjain."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "ts. jos viimeisin joukko on < Joukko k >, niin uuden tulisi olla < Joukko l >"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Jos haluat uuden joukon kuvan näkyvän valintaikkunassa"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "voit tehdä niistä kuvakaappauksen Windowsin kuvakaappaustyökalulla"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "ja siirrä se uuteen hakemistoon. Sen tulisi olla 250 pikseliä leveä ja 200 pikseliä korkea."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Voit ladata ilmaisen kokeiluversion Autodesk 3ds Maxista"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "jos sinulla ei vielä ole sellaista."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Saatavilla on myös DirectX-laajennusmuuntimia ilmaisiin 3D-mallien muokkaustoimintoihin."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "ohjelmoida"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "mutta en saanut niitä toimimaan kunnolla."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Sinulla voi olla enemmän menestystä."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Apua shakkisetin luomiseen 3D-mallista"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Tallenna nykyiset 3D-asetukset levylle"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Lataa nykyiset 3D-asetukset levyltä"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Apua 3D-shakkisetin valintaan"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "On olemassa joukko"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "palatiedostoja kussakin hakemistossa."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Kun sinulla on kuusi"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "osatiedostoihin, luo uusi alihakemisto"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Viisi uutta 2D-palasarjaa (versio 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Kymmenen uutta 3D-palasettiä (versio 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Levyltä ei löytynyt ylimääräisiä 3D-shakkipelihakemistoja."
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "joten ei ole enää 3D-settejä, joista valita."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "Levyllä ei ole 3D-shakkipelihakemistoja."
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "joten 3D-grafiikka ei toimi."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Joissakin uusissa 3D-shakkisarjoissa on paljon enemmän kärkiä nappuloissa"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "kuin <Alkuperäinen>-sarja, koska ne oli suunniteltu 3D-tulostusta varten"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Jos sinulla on vanhempi tietokone, saatat huomata, että se ei toimi kunnolla"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "jotta palaset saataisiin esille ajallaan."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Suurimman kärkiluvun omaava sarja on < Dubrovnik > -shakkisarja."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Joten jos tietokoneesi toimii tämän kanssa hyvin,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "kyllä ​​se kaikkien muiden kanssa pärjää."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Tallennusvaihtoehdot"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "Tallenna 3D-asetukset"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Valitse .dxo-tiedosto tallentaaksesi 3D-asetukset"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Latausvaihtoehdot"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "Lataa 3D-asetukset"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Valitse .dxo-tiedosto ladataksesi 3D-asetukset"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Tallenna asetukset.. - Tallenna nykyiset 3D-asetukset tiedostoon."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Lataa asetukset.. - Lataa nykyiset 3D-asetukset tiedostosta."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Tallenna nykyiset 3D-asetukset tiedostoon"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Lataa nykyiset 3D-asetukset tiedostosta"
