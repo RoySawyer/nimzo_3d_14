@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Επιλέξτε σετ σκακιού"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Επιλέξτε το σετ τρισδιάστατου σκακιού που θα χρησιμοποιήσετε"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Λίστα με διαθέσιμα σετ σκακιού 3D"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Επιλογή σετ σκακιού.. - Ανοίγει ένα παράθυρο διαλόγου για να επιλέξετε το τρέχον σετ σκακιού."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Δεν είναι δυνατό το άνοιγμα του αρχείου αποθήκευσης επιλογών 3D"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "Οι επιλογές 3d αποθηκεύτηκαν στο αρχείο"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "Οι επιλογές 3D δεν αποθηκεύτηκαν"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Δεν είναι δυνατό το άνοιγμα του αρχείου επιλογών 3d"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "Οι επιλογές 3D φορτώθηκαν από"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Δεν ήταν δυνατή η ανάγνωση του αρχείου επιλογών 3d"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Επιλέξτε τρισδιάστατο σετ σκακιού για χρήση"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Εικόνα σετ σκακιού"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Λεπτομέρειες για το τρέχον σετ σκακιού"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Εικόνα του τρέχοντος σετ σκακιού"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Δημιουργήστε ένα σετ σκακιού"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Αυτό το παράθυρο διαλόγου σάς επιτρέπει να επιλέξετε το τρέχον σετ τρισδιάστατου σκακιού."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Κάντε κλικ στο κάτω βέλος του αναπτυσσόμενου μενού επιλογών"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "για να αποκαλύψει μια λίστα με τα διαθέσιμα σετ σκακιού."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Κάντε κλικ σε ένα σετ σκακιού για να δείτε λεπτομέρειες και μια φωτογραφία"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "του επιλεγμένου σετ σκακιού."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Κάντε κλικ στο κουμπί OK για να επιβεβαιώσετε την επιλογή σας."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Οι κατάλογοι πιόνια σκακιού με τα αρχεία DirectX βρίσκονται στον κατάλογο -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "Τα αρχεία DirectX μπορούν να εναλλάσσονται μεταξύ των συνόλων"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "χρησιμοποιώντας την Εξερεύνηση των Windows."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Πληροφορίες άδειας χρήσης -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "Το CC σημαίνει Creative Commons. Αυτή η άδεια χρήσης έχει αρκετές παραλλαγές,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "αλλά με ένα δωρεάν πρόγραμμα όπως το Nimzo_3d, σημαίνει ότι μπορείτε να χρησιμοποιήσετε"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "και να διανέμουν το μοντέλο με οποιονδήποτε εύλογο τρόπο."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Εδώ είναι ο σύνδεσμος για τις πλήρεις περιγραφές των αδειών χρήσης -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "είναι η άδεια <Προσωπική χρήση> για μοντέλα"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "στον ιστότοπο Cults3d."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "Ουσιαστικά σημαίνει ότι το μοντέλο προορίζεται για δική σας χρήση και"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "δεν μπορεί να αναδιανεμηθεί χωρίς την άδεια του δημιουργού του μοντέλου."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Εδώ είναι ο σύνδεσμος για την πλήρη περιγραφή της άδειας χρήσης -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Νέα σετ σκακιού μπορούν να δημιουργηθούν από τρισδιάστατα μοντέλα."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Χρησιμοποίησα το Autodesk 3ds Max για αυτήν τη διαδικασία."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Θα χρειαστείτε έναν μετατροπέα DirectX plug-in για το 3ds Max."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "το οποίο μπορείτε να κατεβάσετε από τους ακόλουθους συνδέσμους -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "Για νεότερες εκδόσεις του 3ds Max -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "Για παλαιότερες εκδόσεις του 3ds Max -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Το πρόσθετο (plug-in) θα πρέπει να εγκατασταθεί στον κατάλογο πρόσθετων (plug-ins) του 3ds Max."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Στη συνέχεια, εισάγετε ένα αρχείο κομματιού στο 3ds Max, το μειώνετε στο σωστό μέγεθος,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "Τοποθετήστε το στο κέντρο των πλεγμάτων και, στη συνέχεια, εξαγάγετε το μοντέλο σε ένα αρχείο DirectX."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Θα πρέπει να επαναλάβετε τη διαδικασία κλίμακας, κέντρου και εξαγωγής αρκετές φορές"
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "για να επιτευχθεί λογικό μέγεθος του κομματιού."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Βρήκα ότι ήταν καλύτερο να ξεκινήσω με τον βασιλιά"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "και να διατηρείται ανοιχτό το πρόγραμμα Nimzo_3d κατά τη διάρκεια της διαδικασίας,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "ώστε να μπορώ να παρακολουθώ τα αποτελέσματα πιο εύκολα."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "Ένα μειονέκτημα που πρέπει να γνωρίζετε είναι ότι ορισμένα τρισδιάστατα μοντέλα δεν έχουν"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "Συντεταγμένες χαρτογράφησης UV ενσωματωμένες στο μοντέλο."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Αυτά είναι απαραίτητα για να τυλιχθούν τα κομμάτια με το bitmap."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Αν και υπάρχουν πιο σύνθετες μέθοδοι διαθέσιμες για τη δημιουργία του"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "Συντεταγμένες UV, διαπίστωσα ότι οι ενσωματωμένες επιλογές είναι αρκετά επαρκείς."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Με επιλεγμένο το μοντέλο, επιλέγετε την επιλογή <Τροποποίηση>"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "από τη γραμμή εργαλείων στο δεξί πλευρικό παράθυρο."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Στη συνέχεια, αναπτυσσόμενη λίστα <Τροποποιητής> Κάντε κύλιση προς τα κάτω στη λίστα και"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "από την ενότητα < Τροποποιητές χώρου αντικειμένου > κάντε κλικ στην επιλογή < Χάρτης UVW >."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Έπειτα, υπάρχουν πολλές επιλογές για να διαλέξετε."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Συνήθως επιλέγω <Συρρίκνωση αναδίπλωσης> <Προσαρμογή> <Προσαρμογή bitmap>"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "και στη συνέχεια επιλέξτε ένα τετράγωνο bitmap 256 pixel, όπως αυτά που χρησιμοποιούνται στο Nimzo_3d."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Στη συνέχεια, επιλέξτε <Εξαγωγή> και επιλέξτε τον μετατροπέα DirectX από τη λίστα."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Ο νέος κατάλογος θα πρέπει να έχει την ίδια μορφή με τους υπάρχοντες."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "π.χ. < Σετ l - όνομα σετ σκακιού από τον μοντελιστή >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Η επιστολή θα πρέπει να είναι η πρώτη δωρεάν διαθέσιμη αλφαβητικά."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "δηλαδή αν το τελευταίο σύνολο είναι < Σύνολο k> τότε το νέο θα πρέπει να είναι < Σύνολο l>"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Εάν θέλετε να εμφανίζεται μια εικόνα του νέου σας συνόλου στο παράθυρο διαλόγου"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "μπορείτε να δημιουργήσετε ένα στιγμιότυπο οθόνης του σετ με το εργαλείο αποκοπής των Windows"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "και τοποθετήστε το στον νέο κατάλογο. Θα πρέπει να έχει πλάτος 250 pixel επί ύψος 200 pixel."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Μπορείτε να κατεβάσετε μια δωρεάν δοκιμαστική έκδοση του Autodesk 3ds Max"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "αν δεν έχετε ήδη ένα."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Υπάρχουν επίσης μετατροπείς plug-in για το DirectX για δωρεάν επεξεργασία τρισδιάστατων μοντέλων."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "πρόγραμμα"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "αλλά δεν κατάφερα να τα κάνω να λειτουργήσουν σωστά."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Μπορεί να έχετε μεγαλύτερη επιτυχία."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Βοήθεια για το πώς να δημιουργήσετε ένα σετ σκακιού από ένα τρισδιάστατο μοντέλο"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Αποθήκευση των τρεχουσών επιλογών 3D στο δίσκο"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Φόρτωση των τρεχουσών επιλογών 3d από τον δίσκο"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Βοήθεια για την επιλογή τρισδιάστατου σετ σκακιού"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Υπάρχει ένα σύνολο από"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "αρχεία piece σε κάθε κατάλογο."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Μόλις έχετε τα έξι"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "αρχεία piece, δημιουργήστε έναν νέο υποκατάλογο στο"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Πέντε νέα σετ δισδιάστατων κομματιών (έκδοση 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Δέκα νέα σετ τρισδιάστατων κομματιών (έκδοση 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Δεν βρέθηκαν επιπλέον κατάλογοι τρισδιάστατων σετ σκακιού στο δίσκο,"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "οπότε δεν υπάρχουν άλλα τρισδιάστατα σετ για να διαλέξετε."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "Δεν υπάρχουν κατάλογοι τρισδιάστατων σετ σκακιού στον δίσκο,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "οπότε τα τρισδιάστατα γραφικά δεν θα λειτουργήσουν."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Μερικά από τα νέα τρισδιάστατα σετ σκακιού έχουν πολύ περισσότερες κορυφές στα κομμάτια"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "από το σετ < Original >, επειδή σχεδιάστηκαν για τρισδιάστατη εκτύπωση"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Αν έχετε έναν παλαιότερο υπολογιστή, μπορεί να διαπιστώσετε ότι δυσκολεύεται"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "για να παρουσιάσετε τα κομμάτια έγκαιρα."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Το σύνολο με τον υψηλότερο αριθμό κορυφών είναι το σκακιστικό σύνολο < Ντουμπρόβνικ>."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Έτσι, αν ο υπολογιστής σας λειτουργεί καλά με αυτό,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "θα είναι μια χαρά με όλους τους άλλους."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Αποθήκευση επιλογών"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "Αποθήκευση επιλογών 3D"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Επιλέξτε το αρχείο .dxo για να αποθηκεύσετε τις επιλογές 3D"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Επιλογές φόρτωσης"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "Φόρτωση επιλογών 3D"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Επιλέξτε το αρχείο .dxo για να φορτώσετε τις επιλογές 3d"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Αποθήκευση επιλογών.. - Αποθηκεύστε τις τρέχουσες επιλογές 3D σε ένα αρχείο."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Φόρτωση επιλογών.. - Φόρτωση των τρεχουσών επιλογών 3d από ένα αρχείο."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Αποθήκευση των τρεχουσών επιλογών 3D σε ένα αρχείο"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Φόρτωση των τρεχουσών επιλογών 3d από ένα αρχείο"
