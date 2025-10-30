@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Pasirinkite šachmatų rinkinį"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Pasirinkite norimą naudoti 3D šachmatų rinkinį"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Galimų 3D šachmatų rinkinių sąrašas"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Pasirinkti šachmatų rinkinį.. – atidaro dialogo langą dabartiniam šachmatų rinkiniui pasirinkti."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Nepavyksta atidaryti 3D parinkčių išsaugojimo failo"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3D parinktys išsaugotos faile"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3D parinktys neišsaugotos"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Nepavyksta atidaryti 3D parinkčių failo"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3D parinktys įkeltos iš"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Nepavyko nuskaityti 3D parinkčių failo"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Pasirinkite 3D šachmatų rinkinį, kurį norite naudoti"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Šachmatų rinkinio vaizdas"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Dabartinio šachmatų rinkinio detalės"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Dabartinio šachmatų rinkinio nuotrauka"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Sukurkite šachmatų rinkinį"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Šiame dialogo lange galite pasirinkti dabartinį 3D šachmatų rinkinį."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Spustelėkite išskleidžiamojo pasirinkimo langelio rodyklę žemyn"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "kad būtų parodytas galimų šachmatų rinkinių sąrašas."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Spustelėkite šachmatų rinkinį, kad pamatytumėte išsamią informaciją ir paveikslėlį"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "pasirinkto šachmatų rinkinio."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Spustelėkite Gerai, kad patvirtintumėte savo pasirinkimą."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Šachmatų figūrų katalogai su „DirectX“ failais yra kataloge -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "„DirectX“ failų rinkinius galima keisti tarp rinkinių."
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "naudojant „Windows Explorer“."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Licencijos informacija –"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC reiškia „Creative Commons“. Ši licencija turi keletą variantų,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "bet su nemokama programa, pvz., „Nimzo_3d“, tai reiškia, kad galite naudoti"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "ir platinti modelį bet kokiu pagrįstu būdu."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Čia yra nuoroda į išsamius licencijų aprašymus -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "yra <Asmeninio naudojimo> licencija modeliams"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "„Cults3d“ svetainėje."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "Iš esmės tai reiškia, kad modelis skirtas tik jūsų asmeniniam naudojimui ir"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "negali būti platinamas be modeliuotojo leidimo."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Čia yra nuoroda į visą licencijos aprašymą -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Naujus šachmatų rinkinius galima sukurti iš 3D modelių."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Šiam procesui naudojau „Autodesk 3ds Max“."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Jums reikės „DirectX“ keitiklio, skirto „3ds Max“."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "kurį galima atsisiųsti iš šių nuorodų -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "Naujesnėms „3ds Max“ versijoms -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "Senesnėms „3ds Max“ versijoms -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Įskiepis turėtų būti įdiegtas „3ds Max“ įskiepių kataloge."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Tada importuojate detalės failą į „3ds Max“, sumažinate jį iki reikiamo dydžio,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "centruokite jį tinklelių viduryje ir eksportuokite modelį į „DirectX“ failą."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Mastelio keitimo, centravimo ir eksportavimo procesą turėsite pakartoti kelis kartus."
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "kad gabalo dydis būtų tinkamas."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Maniau, kad geriausia pradėti nuo karaliaus"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "ir proceso metu palikite programą „Nimzo_3d“ atidarytą,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "kad galėčiau lengviau stebėti rezultatus."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "Vienas trūkumas, į kurį reikia atkreipti dėmesį, yra tai, kad kai kurie 3D modeliai neturi"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "Į modelį integruotos UV žemėlapių koordinatės."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Jų reikia, kad dalys būtų apvyniotos rastriniu vaizdu."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Nors yra ir sudėtingesnių būdų sukurti"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "UV koordinates, pastebėjau, kad integruotos parinktys yra gana tinkamos."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Pasirinkę modelį, pasirinkite parinktį <Keisti>."
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "iš įrankių juostos, esančios dešiniajame lango skydelyje."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Tada išskleidžiamajame sąraše pasirinkite <Modifikatorių sąrašas> ir slinkite sąrašu žemyn."
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "skyriuje <Objektas – erdvės modifikatoriai> spustelėkite parinktį <UVW žemėlapis>."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Tada yra daug variantų, iš kurių galima rinktis."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Paprastai renkuosi <Shrink wrap > <Fit > <Bitmap fit >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "ir tada pasirinkite kvadratinį 256 pikselių bitų vaizdą, panašų į tuos, kurie naudojami „Nimzo_3d“."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Tada pasirinkite < Eksportuoti > ir iš sąrašo pasirinkite „DirectX“ keitiklį."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Naujas katalogas turėtų būti tokio paties formato kaip ir esami."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "pvz., < Rinkinys l - šachmatų rinkinio pavadinimas pagal modeliuotoją>"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Raidė turėtų būti pirmoji laisva abėcėlės tvarka."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "t. y. jei paskutinis rinkinys yra < Rinkinys k >, tai naujasis turėtų būti < Rinkinys l >"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Jei norite, kad dialogo lange būtų rodomas naujo rinkinio vaizdas"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "galite padaryti ekrano kopiją naudodami „Windows“ iškarpų įrankį"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "ir įdėkite jį į naują katalogą. Jo plotis turėtų būti 250 pikselių, o aukštis – 200 pikselių."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Galite nemokamai atsisiųsti bandomąją „Autodesk 3ds Max“ versiją"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "jei dar neturite."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Taip pat yra „DirectX“ įskiepių keitikliai, skirti nemokamam 3D modelių redagavimui."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "programa"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "bet man nepavyko priversti jų tinkamai veikti."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Galbūt jums pasiseks labiau."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Pagalba, kaip sukurti šachmatų rinkinį iš 3D modelio"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Išsaugoti dabartines 3D parinktis diske"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Įkelti dabartines 3D parinktis iš disko"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Pagalba renkantis 3D šachmatų rinkinį"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Yra rinkinys"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "vienetinių failų kiekviename kataloge."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Kai turėsite šešis"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "vienetinius failus, sukurkite naują pakatalogį"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Penki nauji 2D detalių rinkiniai (4.0 versija)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Dešimt naujų 3D detalių rinkinių (4.0 versija)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Diske nerasta papildomų 3D šachmatų rinkinių katalogų."
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "taigi nebėra iš ko rinktis 3D rinkinių."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "Diske nėra 3D šachmatų rinkinių katalogų,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "taigi 3D grafika neveiks."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Kai kuriuose naujuose 3D šachmatų rinkiniuose figūrų viršūnių yra daug daugiau."
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "nei < Original > rinkinys, nes jie buvo sukurti 3D spausdinimui"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Jei turite senesnį kompiuterį, galite pastebėti, kad jam sunku"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "laiku eksponuoti kūrinius."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Rinkinys su didžiausiu viršūnių skaičiumi yra <Dubrovniko> šachmatų rinkinio."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Taigi, jei jūsų kompiuteris su šiuo įrenginiu veikia gerai,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "su visais kitais bus gerai."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Išsaugojimo parinktys"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "Išsaugoti 3D parinktis"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Pasirinkite .dxo failą, kad išsaugotumėte 3D parinktis"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Įkėlimo parinktys"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "Įkelti 3D parinktis"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Pasirinkite .dxo failą, kad įkeltumėte 3D parinktis"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Įrašyti parinktis... – Įrašyti dabartines 3D parinktis į failą."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Įkelti parinktis... – Įkelti dabartines 3D parinktis iš failo."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Išsaugoti dabartines 3D parinktis faile"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Įkelti dabartines 3D parinktis iš failo"
