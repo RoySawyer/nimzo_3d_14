@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Изаберите шаховски сет"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Изаберите 3Д шаховски сет који ћете користити"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Листа доступних 3Д шаховских сетова"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Изаберите шаховски сет.. - Отвара дијалошки прозор за избор тренутног шаховског сета."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Не могу да отворим датотеку за чување 3Д опција"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3Д опције сачуване у датотеку"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3Д опције нису сачуване"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Не могу да отворим датотеку са 3Д опцијама"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3Д опције учитане из"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Није могуће прочитати датотеку са 3Д опцијама"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Изаберите 3Д шаховски сет који ћете користити"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Слика шаховског сета"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Детаљи тренутног шаховског сета"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Слика тренутног шаховског сета"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Направите шаховски сет"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Овај дијалошки оквир вам омогућава да изаберете тренутни 3Д шаховски сет."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Кликните на стрелицу надоле у ​​падајућем менију за избор"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "да би се открила листа доступних шаховских гарнитура."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Кликните на шаховски сет да бисте видели детаље и слику"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "одабраног шаховског сета."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Кликните на У реду да бисте потврдили свој избор."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Директоријуми шаховских фигура са DirectX датотекама налазе се у директоријуму -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "DirectX датотеке се могу мењати између скупова"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "коришћењем Windows Explorer-а."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Информације о лиценци -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC је скраћеница од Creative Commons. Ова лиценца има неколико варијанти,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "али са бесплатним програмом као што је Nimzo_3d, то значи да можете користити"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "и дистрибуирати модел на било који разуман начин."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Ево линка ка комплетним описима лиценци -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "је лиценца за < личну употребу > за моделе"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "на веб-сајту Cults3d."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "У суштини, то значи да је модел за вашу сопствену употребу и"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "не може се поново дистрибуирати без дозволе моделара."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Ево линка до комплетног описа лиценце -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Нови шаховски сетови могу се креирати из 3Д модела."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "За овај процес сам користио Autodesk 3ds Max."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Биће вам потребан плагин DirectX конвертер за 3ds Max."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "који се може преузети са следећих линкова -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "За новије верзије 3ds Max-а -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "За старије верзије 3ds Max-а -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Плагин треба да буде инсталиран у директоријуму 3ds Max плагинова."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Затим увезете датотеку дела у 3ds Max, смањите је на одговарајућу величину,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "центрирајте га на средини мрежа, а затим извезите модел у DirectX датотеку."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Мораћете да поновите поступак скалирања, центрирања и извоза неколико пута"
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "да би се добила разумна величина комада."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Сматрао сам да је најбоље почети са краљем"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "и држите програм Nimzo_3d отвореним током процеса,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "како бих лакше могао пратити резултате."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "Једна замка које треба бити свестан је да неки 3Д модели немају"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "UV мапирање координата уграђено у модел."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Ово је потребно да би се делови обмотали битмапом."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Иако постоје сложеније методе за креирање"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "УВ координате, открио сам да су уграђене опције сасвим адекватне."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Када је модел изабран, изаберите опцију < Измени >"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "са траке са алаткама у прозору са десне стране."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Затим спустите < Листа модификатора > Померите се надоле по листи и"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "из одељка < Објекат - модификатори простора > кликните на опцију < UVW мапа >."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Онда постоји много опција за избор."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Обично бирам < Скупљање > < Уклопи > < Уклопи битмапу >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "а затим изаберите квадратну битмапу од 256 пиксела, као оне коришћене у Nimzo_3d."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Затим изаберите < Извоз > и изаберите DirectX конвертор са листе."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Нови директоријум треба да има исти формат као и постојећи."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "нпр. < Сет l - назив шаховског сета по моделу >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Писмо би требало да буде прво слободно доступно по абецедном реду."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "тј. ако је последњи скуп < Скуп k >, онда нови треба да буде < Скуп l >"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Ако желите да се слика вашег новог сета прикаже у дијалошком оквиру"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "Можете направити снимак екрана помоћу алатке за исецање у оперативном систему Windows"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "и ставите га у нови директоријум. Требало би да буде 250 пиксела ширине и 200 пиксела висине."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Можете преузети бесплатну пробну верзију програма Autodesk 3ds Max"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "ако га већ немате."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Такође постоје DirectX плагин конвертори за бесплатно уређивање 3Д модела"
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "програм"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "али нисам их могао натерати да раде како треба."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Можда ћете имати више успеха."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Помоћ око прављења шаховског сета из 3Д модела"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Сачувај тренутне 3Д опције на диск"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Учитајте тренутне 3Д опције са диска"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Помоћ за одабир 3Д шаховског сета"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Постоји скуп"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "делови датотека у сваком директоријуму."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Када имате шест"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "piece датотеке, направите нови поддиректоријум у"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Пет нових дводимензионалних сетова (верзија 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Десет нових 3Д комплета (верзија 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Додатни директоријуми са 3Д шаховским сетовима нису пронађени на диску,"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "тако да нема више 3Д сетова за избор."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "На диску нема директоријума са 3Д шаховским сетовима,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "тако да 3Д графика неће радити."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Неки од нових 3Д шаховских сетова имају много више врхова у фигурама"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "него <Оригинални> сет, јер су дизајнирани за 3Д штампање"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Ако имате старији рачунар, можда ћете открити да има проблема"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "да се делови прикажу на време."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Скуп са највећим бројем врхова је шаховски сет < Дубровник >."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Дакле, ако ваш рачунар добро ради са овим,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "Биће у реду са свима осталима."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Опције чувања"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "Сачувај 3Д опције"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Изаберите .dxo датотеку да бисте сачували 3D опције"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Опције учитавања"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "Учитај 3Д опције"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Изаберите .dxo датотеку да бисте учитали 3D опције"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Сачувај опције.. - Сачувај тренутне 3Д опције у датотеку."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Учитај опције.. - Учитај тренутне 3Д опције из датотеке."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Сачувајте тренутне 3Д опције у датотеку"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Учитајте тренутне 3Д опције из датотеке"
