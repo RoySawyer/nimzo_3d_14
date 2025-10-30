@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Velg sjakksett"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Velg 3D-sjakksettet du vil bruke"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Liste over tilgjengelige 3D-sjakksett"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Velg sjakksett.. – Åpner en dialogboks for å velge gjeldende sjakksett."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Kan ikke åpne lagringsfilen for 3D-alternativer"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3D-alternativer lagret i fil"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3D-alternativer ikke lagret"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Kan ikke åpne 3D-alternativfilen"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3D-alternativer lastet inn fra"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Kunne ikke lese filen med 3D-alternativer"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Velg 3D-sjakksett å bruke"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Sjakksettbilde"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Detaljer om det nåværende sjakksettet"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Bilde av det nåværende sjakksettet"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Lag sjakksett"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Denne dialogboksen lar deg velge det gjeldende 3D-sjakksettet."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Klikk på pil ned i rullegardinmenyen"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "for å vise en liste over tilgjengelige sjakksett."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Klikk på et sjakksett for å se detaljene og et bilde"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "av det valgte sjakksettet."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Klikk OK for å bekrefte valget ditt."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Sjakkbrikkenes kataloger med DirectX-filene er i katalogen -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "DirectX-delfilene kan byttes mellom settene"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "ved hjelp av Windows Utforsker."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Lisensinformasjon -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC står for Creative Commons. Denne lisensen finnes i flere varianter,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "men med et gratisprogram som Nimzo_3d, betyr det at du kan bruke"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "og distribuere modellen på enhver rimelig måte."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Her er lenken til den fullstendige beskrivelsen av lisensene -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "er <Personlig bruk>-lisensen for modeller"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "på Cults3d-nettstedet."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "I bunn og grunn betyr det at modellen er til eget bruk og"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "kan ikke distribueres på nytt uten tillatelse fra modellbyggeren."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Her er lenken til den fullstendige beskrivelsen av lisensen -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Nye sjakksett kan lages fra 3D-modeller."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Jeg brukte Autodesk 3ds Max til denne prosessen."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Du trenger en plugin-modul for DirectX-konvertering for 3ds Max."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "som kan lastes ned fra følgende lenker -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "For nyere versjoner av 3ds Max -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "For eldre versjoner av 3ds Max -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Plugin-modulen bør installeres i 3ds Max plugin-katalogen."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Deretter importerer du en delfil til 3ds Max, skalerer den ned til riktig størrelse,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "Sentrer den midt i rutenettene, og eksporter deretter modellen til en DirectX-fil."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Du må gjenta skalerings-, sentrerings- og eksporteringsprosessen flere ganger."
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "for å få en rimelig størrelse på stykket."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Jeg syntes det var best å starte med kongen"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "og hold Nimzo_3d-programmet åpent under prosessen,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "slik at jeg enklere kunne følge med på resultatene."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "En fallgruve man bør være klar over er at noen 3D-modeller ikke har"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "UV-kartleggingskoordinater innebygd i modellen."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Disse trengs for at brikkene skal pakkes inn med bitmap-bildet."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Selv om det finnes mer komplekse metoder for å lage"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "UV-koordinater, jeg fant ut at de innebygde alternativene er ganske tilstrekkelige."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Når modellen er valgt, velger du deretter alternativet <Endre>"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "fra verktøylinjen i panelvinduet til høyre."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Deretter ruller du nedover listen i <Modifikatorliste> og"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "Fra delen <Objekt - rommodifikatorer> klikker du på alternativet <UVW-kart>."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Da er det mange alternativer å velge mellom."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Jeg velger vanligvis < Krympeplast > < Tilpass > < Bitmap-tilpasning >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "og velg deretter et firkantet bitmap på 256 piksler, som de som brukes i Nimzo_3d."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Velg deretter <Eksporter> og velg DirectX-konvertereren fra listen."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Den nye katalogen bør ha samme format som de eksisterende."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "f.eks. < Sett l - navn på sjakksett av modeller >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Brevet skal være det første gratis som er tilgjengelig alfabetisk."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "dvs. hvis det siste settet er <Sett k>, så skal det nye være <Sett l>"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Hvis du vil at et bilde av det nye settet ditt skal vises i dialogboksen"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "dem kan du ta et skjermbilde av settet med Windows-utklippsverktøyet"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "og legg den i den nye mappen. Den skal være 250 piksler bred og 200 piksler høy."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Du kan laste ned en gratis prøveversjon av Autodesk 3ds Max"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "hvis du ikke allerede har en."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Det finnes også DirectX-plugin-konverterere for gratis 3D-modellredigering."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "program"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "men jeg klarte ikke å få dem til å fungere ordentlig."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Du kan ha mer suksess."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Hjelp til å lage et sjakksett fra en 3D-modell"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Lagre de gjeldende 3D-alternativene på disken"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Last inn gjeldende 3D-alternativer fra disk"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Hjelp med å velge et 3D-sjakksett"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Det finnes et sett med"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "stykkefiler i hver katalog."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Når du har de seks"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "stykkefiler, lag en ny underkatalog i"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Fem nye 2D-delsett (versjon 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Ti nye 3D-delsett (versjon 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Ekstra 3D-sjakksettkataloger ble ikke funnet på disken."
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "så det er ingen flere 3D-sett å velge mellom."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "Det finnes ingen 3D-sjakksettkataloger på disken,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "så 3D-grafikk vil ikke fungere."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Noen av de nye 3D-sjakksettene har mange flere hjørner i brikkene"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "enn det <Originale> settet, fordi de ble designet for 3D-printing"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Hvis du har en eldre datamaskin, kan det hende du opplever at den sliter"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "å vise frem gjenstandene i tide."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Settet med høyest antall toppunkter er sjakksettet <Dubrovnik>."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Så hvis datamaskinen din fungerer bra med denne,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "det går bra med alle de andre."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Lagre alternativer"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "Lagre 3D-alternativer"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Velg .dxo-fil for å lagre 3D-alternativer"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Last inn alternativer"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "Last inn 3D-alternativer"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Velg .dxo-fil for å laste inn 3D-alternativer"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Lagre alternativer.. – Lagre gjeldende 3D-alternativer til en fil."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Last inn alternativer.. – Last inn gjeldende 3D-alternativer fra en fil."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Lagre de gjeldende 3D-alternativene til en fil"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Last inn gjeldende 3D-alternativer fra en fil"
