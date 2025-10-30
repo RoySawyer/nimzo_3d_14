@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "เลือกชุดหมากรุก"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "เลือกชุดหมากรุก 3 มิติที่จะใช้"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "รายชื่อชุดหมากรุก 3 มิติที่มีจำหน่าย"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "เลือกชุดหมากรุก.. - เปิดกล่องโต้ตอบเพื่อเลือกชุดหมากรุกปัจจุบัน"
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "ไม่สามารถเปิดไฟล์บันทึกตัวเลือก 3 มิติได้"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "ตัวเลือก 3 มิติที่บันทึกไว้ในไฟล์"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "ตัวเลือก 3 มิติไม่ได้รับการบันทึก"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "ไม่สามารถเปิดไฟล์ตัวเลือก 3 มิติได้"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "ตัวเลือก 3 มิติโหลดจาก"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "ไม่สามารถอ่านไฟล์ตัวเลือก 3 มิติได้"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "เลือกชุดหมากรุก 3 มิติที่จะใช้"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "ภาพชุดหมากรุก"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "รายละเอียดของชุดหมากรุกในปัจจุบัน"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "ภาพชุดหมากรุกในปัจจุบัน"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "สร้างชุดหมากรุก"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "กล่องโต้ตอบนี้ช่วยให้คุณสามารถเลือกชุดหมากรุก 3 มิติในปัจจุบันได้"
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "คลิกลูกศรลงของกล่องตัวเลือกแบบดรอปดาวน์"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "เพื่อเปิดเผยรายชื่อชุดหมากรุกที่มีให้เลือก"
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "คลิกที่ชุดหมากรุกเพื่อดูรายละเอียดและรูปภาพ"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "ของชุดหมากรุกที่เลือก"
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "คลิกตกลงเพื่อยืนยันการเลือกของคุณ"
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "ไดเร็กทอรีตัวหมากรุกที่มีไฟล์ DirectX อยู่ในไดเร็กทอรี -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "ไฟล์ชิ้นส่วน DirectX สามารถสลับระหว่างชุดได้"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "การใช้ Windows Explorer"
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "ข้อมูลใบอนุญาต -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC ย่อมาจาก Creative Commons ใบอนุญาตนี้มีหลายรูปแบบ"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "แต่ด้วยโปรแกรมฟรีอย่าง Nimzo_3d หมายความว่าคุณสามารถใช้"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "และเผยแพร่โมเดลดังกล่าวในวิธีที่เหมาะสม"
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "นี่คือลิงค์ไปยังคำอธิบายฉบับเต็มของใบอนุญาต -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "เป็นใบอนุญาต <การใช้งานส่วนบุคคล> สำหรับนางแบบ"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "บนเว็บไซต์ Cults3d"
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "โดยพื้นฐานแล้วมันหมายความว่าโมเดลนี้มีไว้สำหรับการใช้งานของคุณเองและ"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "ไม่สามารถนำไปเผยแพร่ต่อได้โดยไม่ได้รับอนุญาตจากผู้สร้างโมเดล"
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "นี่คือลิงก์ไปยังคำอธิบายฉบับเต็มของใบอนุญาต -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "สามารถสร้างชุดหมากรุกใหม่จากโมเดล 3 มิติได้"
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "ฉันใช้ Autodesk 3ds Max สำหรับกระบวนการนี้"
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "คุณจะต้องมีตัวแปลงปลั๊กอิน DirectX สำหรับ 3ds Max"
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "ซึ่งสามารถดาวน์โหลดได้จากลิงค์ต่อไปนี้ -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "สำหรับ 3ds Max เวอร์ชันใหม่กว่า -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "สำหรับ 3ds Max เวอร์ชันเก่า -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "ควรติดตั้งปลั๊กอินในไดเร็กทอรีปลั๊กอินของ 3ds Max"
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "จากนั้นคุณนำเข้าไฟล์ชิ้นส่วนเข้าสู่ 3ds Max แล้วปรับขนาดลงให้ถูกต้อง"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "จัดให้อยู่ตรงกลางกริดแล้วส่งออกโมเดลไปยังไฟล์ DirectX"
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "คุณจะต้องทำซ้ำกระบวนการปรับขนาด ศูนย์กลาง และการส่งออกหลายครั้ง"
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "เพื่อให้ได้ขนาดชิ้นงานที่เหมาะสม"
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "ฉันพบว่ามันดีที่สุดที่จะเริ่มต้นด้วยกษัตริย์"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "และเปิดโปรแกรม Nimzo_3d ไว้ระหว่างดำเนินการ"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "เพื่อให้ฉันสามารถติดตามผลได้ง่ายยิ่งขึ้น"
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "ข้อผิดพลาดประการหนึ่งที่ต้องระวังคือโมเดล 3 มิติบางรุ่นไม่มี"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "พิกัดการแมป UV ถูกสร้างขึ้นในโมเดล"
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "สิ่งเหล่านี้จำเป็นสำหรับชิ้นส่วนที่จะห่อด้วยบิตแมป"
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "แม้ว่าจะมีวิธีการที่ซับซ้อนกว่าในการสร้าง"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "พิกัด UV ฉันพบว่าตัวเลือกในตัวนั้นเพียงพอ"
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "เมื่อเลือกโมเดลแล้ว คุณเลือกตัวเลือก <แก้ไข>"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "จากแถบเครื่องมือในหน้าต่างแผงด้านขวามือ"
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "จากนั้นเลื่อนรายการ < ตัวปรับเปลี่ยน > ลงมา เลื่อนรายการลงมาและ"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "จากส่วน < Object - space modifiers > คลิกตัวเลือก < UVW Map >"
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "จากนั้นก็มีตัวเลือกให้เลือกอีกมากมาย"
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "โดยปกติฉันจะเลือก < Shrink wrap > < Fit > < Bitmap fit >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "จากนั้นเลือกบิตแมปสี่เหลี่ยมจัตุรัสขนาด 256 พิกเซล เช่นเดียวกับที่ใช้ใน Nimzo_3d"
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "จากนั้นเลือก <ส่งออก> และเลือกตัวแปลง DirectX จากรายการ"
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "ไดเร็กทอรีใหม่ควรมีรูปแบบเดียวกับไดเร็กทอรีที่มีอยู่"
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "เช่น <ชุด l - ชื่อชุดหมากรุกโดยผู้สร้างแบบจำลอง >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "ตัวอักษรควรเป็นตัวอักษรตัวแรกที่ว่างตามลำดับตัวอักษร"
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "กล่าวคือ ถ้าชุดสุดท้ายคือ < ชุด k > ชุดใหม่ควรเป็น < ชุด l >"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "หากคุณต้องการให้แสดงรูปภาพชุดใหม่ของคุณในกล่องโต้ตอบ"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "คุณสามารถจับภาพหน้าจอของชุดนี้ด้วยเครื่องมือตัดภาพแบบ Windows ได้"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "แล้ววางไว้ในไดเรกทอรีใหม่ ควรมีความกว้าง 250 พิกเซล และความสูง 200 พิกเซล"
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "คุณสามารถดาวน์โหลด Autodesk 3ds Max เวอร์ชันทดลองใช้งานฟรีได้"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "หากคุณยังไม่มี"
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "นอกจากนี้ยังมีตัวแปลงปลั๊กอิน DirectX สำหรับการแก้ไขโมเดล 3 มิติฟรีอีกด้วย"
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "โปรแกรม"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "แต่ฉันไม่สามารถทำให้มันทำงานได้อย่างถูกต้อง"
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "คุณอาจประสบความสำเร็จมากยิ่งขึ้น"
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "ความช่วยเหลือเกี่ยวกับวิธีการสร้างชุดหมากรุกจากแบบจำลอง 3 มิติ"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "บันทึกตัวเลือก 3 มิติปัจจุบันลงในดิสก์"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "โหลดตัวเลือก 3 มิติปัจจุบันจากดิสก์"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "ความช่วยเหลือสำหรับการเลือกชุดหมากรุก 3 มิติ"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "มีชุดหนึ่ง"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "ไฟล์ชิ้นส่วนในแต่ละไดเร็กทอรี"
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "เมื่อคุณมีหก"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "ไฟล์ชิ้นหนึ่ง สร้างไดเร็กทอรีย่อยใหม่ใน"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "ชุดชิ้นส่วน 2 มิติใหม่ 5 ชิ้น (เวอร์ชัน 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "ชุดชิ้นส่วน 3 มิติใหม่ 10 ชิ้น (เวอร์ชัน 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "ไม่พบไดเรกทอรีชุดหมากรุก 3 มิติพิเศษบนดิสก์"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "ดังนั้นจะไม่มีชุด 3 มิติให้เลือกอีกต่อไป"
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "ไม่มีไดเรกทอรีชุดหมากรุก 3 มิติบนดิสก์"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "ดังนั้นกราฟิก 3 มิติจึงไม่ทำงาน"
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "หมากรุก 3 มิติใหม่บางชุดมีจุดยอดบนชิ้นส่วนเพิ่มมากขึ้น"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "กว่าชุด <ต้นฉบับ> เนื่องจากได้รับการออกแบบมาสำหรับการพิมพ์ 3 มิติ"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "หากคุณมีคอมพิวเตอร์รุ่นเก่า คุณอาจพบว่ามันมีปัญหา"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "เพื่อจัดแสดงชิ้นงานได้ทันเวลา"
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "ชุดที่มีจำนวนจุดยอดสูงสุดคือชุดหมากรุก < Dubrovnik >"
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "ดังนั้นหากคอมพิวเตอร์ของคุณทำงานได้ดีกับอันนี้"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "ส่วนคนอื่น ๆ มันก็จะดีเหมือนกัน"
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "ตัวเลือกการบันทึก"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "บันทึกตัวเลือก 3 มิติ"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "เลือกไฟล์ .dxo เพื่อบันทึกตัวเลือก 3 มิติ"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "ตัวเลือกการโหลด"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "โหลดตัวเลือก 3 มิติ"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "เลือกไฟล์ .dxo เพื่อโหลดตัวเลือก 3 มิติ"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "บันทึกตัวเลือก.. - บันทึกตัวเลือก 3 มิติปัจจุบันไปยังไฟล์"
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "โหลดตัวเลือก.. - โหลดตัวเลือก 3 มิติปัจจุบันจากไฟล์"
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "บันทึกตัวเลือก 3 มิติปัจจุบันลงในไฟล์"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "โหลดตัวเลือก 3 มิติปัจจุบันจากไฟล์"
