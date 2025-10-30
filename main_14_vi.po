@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Chọn bộ cờ vua"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Chọn bộ cờ vua 3D để sử dụng"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Danh sách các bộ cờ vua 3D có sẵn"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Chọn bộ cờ vua.. - Mở hộp thoại để chọn bộ cờ vua hiện tại."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Không thể mở tệp lưu tùy chọn 3D"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "Tùy chọn 3D đã được lưu vào tệp"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "Tùy chọn 3D không được lưu"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Không thể mở tệp tùy chọn 3D"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "Tùy chọn 3D được tải từ"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Không thể đọc tệp tùy chọn 3D"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Chọn bộ cờ vua 3D để sử dụng"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Hình ảnh bộ cờ vua"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Chi tiết về bộ cờ vua hiện tại"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Hình ảnh bộ cờ vua hiện tại"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Tạo bộ cờ vua"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Hộp thoại này cho phép bạn chọn bộ cờ vua 3D hiện tại."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Nhấp vào mũi tên xuống của hộp lựa chọn thả xuống"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "để hiển thị danh sách các bộ cờ vua có sẵn."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Nhấp vào bộ cờ vua để xem chi tiết và hình ảnh"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "của bộ cờ vua đã chọn."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Nhấp vào Ok để xác nhận lựa chọn của bạn."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Các thư mục quân cờ vua có chứa các tập tin DirectX nằm trong thư mục -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "Các tập tin phần DirectX có thể được hoán đổi giữa các bộ"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "sử dụng Windows Explorer."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Thông tin giấy phép -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC là viết tắt của Creative Commons. Giấy phép này có nhiều biến thể,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "nhưng với một chương trình miễn phí như Nimzo_3d, điều đó có nghĩa là bạn có thể sử dụng"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "và phân phối mô hình theo bất kỳ cách hợp lý nào."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Đây là liên kết đến mô tả đầy đủ về các giấy phép -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "là giấy phép <Sử dụng cá nhân> cho các mô hình"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "trên trang web Cults3d."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "Về cơ bản, điều đó có nghĩa là mô hình này dành cho mục đích sử dụng của riêng bạn và"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "không thể phân phối lại nếu không có sự cho phép của người làm mô hình."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Đây là liên kết đến mô tả đầy đủ về giấy phép -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Có thể tạo ra bộ cờ vua mới từ mô hình 3D."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Tôi đã sử dụng Autodesk 3ds Max cho quá trình này."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Bạn sẽ cần một plug-in chuyển đổi DirectX cho 3ds Max."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "có thể tải xuống từ các liên kết sau -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "Đối với các phiên bản mới hơn của 3ds Max -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "Đối với các phiên bản cũ hơn của 3ds Max -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Phần bổ trợ này phải được cài đặt trong thư mục phần bổ trợ 3ds Max."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Sau đó, bạn nhập tệp mảnh vào 3ds Max, thu nhỏ nó xuống kích thước chính xác,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "đặt nó vào giữa lưới rồi xuất mô hình sang tệp DirectX."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Bạn sẽ phải lặp lại quá trình cân, định tâm và xuất nhiều lần"
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "để có được kích thước hợp lý của tác phẩm."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Tôi thấy tốt nhất là bắt đầu với vua"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "và giữ chương trình Nimzo_3d mở trong suốt quá trình,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "để tôi có thể theo dõi kết quả dễ dàng hơn."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "Một cạm bẫy cần lưu ý là một số mô hình 3D không có"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "Tọa độ ánh xạ UV được tích hợp vào mô hình."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Những thứ này cần thiết để các mảnh được bao bọc bằng bitmap."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Mặc dù có nhiều phương pháp phức tạp hơn để tạo ra"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "Về tọa độ UV, tôi thấy các tùy chọn tích hợp khá đầy đủ."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Với mô hình đã chọn, sau đó bạn chọn tùy chọn < Sửa đổi >"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "từ thanh công cụ ở cửa sổ bảng điều khiển bên phải."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Sau đó thả xuống < Danh sách sửa đổi > Cuộn xuống danh sách và"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "từ phần < Bộ điều chỉnh không gian đối tượng > nhấp vào tùy chọn < Bản đồ UVW >."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Sau đó, có nhiều lựa chọn để bạn lựa chọn."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Tôi thường chọn < Shrink wrap > < Fit > < Bitmap fit >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "và sau đó chọn một ảnh bitmap vuông 256 pixel, giống như ảnh được sử dụng trong Nimzo_3d."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Sau đó chọn <Xuất> và chọn trình chuyển đổi DirectX từ danh sách."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Thư mục mới phải có cùng định dạng với thư mục hiện có."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "ví dụ < Set l - tên bộ cờ vua theo người tạo mô hình >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Bức thư này phải là bức thư đầu tiên có sẵn theo thứ tự bảng chữ cái."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "tức là nếu tập hợp cuối cùng là < Tập hợp k > thì tập hợp mới phải là < Tập hợp l >"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Nếu bạn muốn hình ảnh của bộ mới của bạn được hiển thị trong hộp thoại"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "bạn có thể chụp ảnh màn hình bằng công cụ cắt của Windows"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "và đặt nó vào thư mục mới. Thư mục này sẽ có kích thước rộng 250 pixel và cao 200 pixel."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Bạn có thể tải xuống phiên bản dùng thử miễn phí của Autodesk 3ds Max"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "nếu bạn chưa có."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Ngoài ra còn có các trình chuyển đổi plug-in DirectX miễn phí để chỉnh sửa mô hình 3D"
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "chương trình"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "nhưng tôi không thể làm cho chúng hoạt động bình thường."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Bạn có thể thành công hơn."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Trợ giúp về cách tạo bộ cờ vua từ mô hình 3D"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Lưu các tùy chọn 3D hiện tại vào đĩa"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Tải các tùy chọn 3D hiện tại từ đĩa"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Trợ giúp chọn bộ cờ vua 3D"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Có một bộ"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "các tập tin trong mỗi thư mục."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Một khi bạn có sáu"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "các tập tin mảnh, tạo một thư mục con mới trong"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Năm bộ mảnh ghép 2D mới (phiên bản 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Mười bộ mảnh ghép 3D mới (phiên bản 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Không tìm thấy thư mục bộ cờ vua 3D bổ sung trên đĩa,"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "nên không còn bộ 3D nào để lựa chọn nữa."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "Không có thư mục bộ cờ vua 3D nào trên đĩa,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "vì vậy đồ họa 3D sẽ không hoạt động."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Một số bộ cờ vua 3D mới có nhiều đỉnh hơn trong các quân cờ"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "hơn bộ <Bản gốc>, vì chúng được thiết kế để in 3D"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Nếu bạn có một máy tính cũ hơn, bạn có thể thấy rằng nó gặp khó khăn"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "để trưng bày các tác phẩm một cách kịp thời."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Bộ cờ có số đỉnh cao nhất là bộ cờ < Dubrovnik >."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Vì vậy, nếu máy tính của bạn hoạt động tốt với cái này,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "sẽ ổn với tất cả những thứ khác."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Lưu tùy chọn"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "Lưu tùy chọn 3D"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Chọn tệp .dxo để lưu tùy chọn 3D"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Tùy chọn tải"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "Tải tùy chọn 3D"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Chọn tệp .dxo để tải các tùy chọn 3D"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Lưu tùy chọn.. - Lưu các tùy chọn 3D hiện tại vào một tệp."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Tải tùy chọn.. - Tải các tùy chọn 3D hiện tại từ một tệp."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Lưu các tùy chọn 3D hiện tại vào một tệp"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Tải các tùy chọn 3D hiện tại từ một tệp"
