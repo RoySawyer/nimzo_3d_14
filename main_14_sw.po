@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Chagua seti ya chess"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Chagua seti ya 3d ya chess kutumia"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Orodha ya seti zinazopatikana za chess za 3d"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Chagua seti ya chess.. - Hufungua kisanduku cha mazungumzo ili kuchagua seti ya sasa ya chess."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Haiwezi kufungua chaguo za 3d kuhifadhi faili"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "Chaguo za 3d zimehifadhiwa kwenye faili"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "Chaguo za 3d hazijahifadhiwa"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Haiwezi kufungua faili ya chaguo za 3d"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "Chaguzi za 3d zimepakiwa kutoka"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Haikuweza kusoma faili ya chaguo za 3d"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Chagua chess 3d iliyowekwa ili kutumia"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Picha ya seti ya chess"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Maelezo ya seti ya sasa ya chess"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Picha ya seti ya sasa ya chess"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Unda seti ya chess"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Sanduku hili la mazungumzo hukuruhusu kuchagua seti ya sasa ya 3d ya chess."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Bofya kwenye mshale wa chini wa kisanduku cha chaguo cha kushuka"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "kufunua orodha ya seti zinazopatikana za chess."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Bofya kwenye seti ya chess ili kuona maelezo na picha"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "ya seti iliyochaguliwa ya chess."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Bofya Sawa ili kuthibitisha chaguo lako."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Saraka za kipande cha chess na faili za DirectX ziko kwenye saraka -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "Faili za kipande cha DirectX zinaweza kubadilishwa kati ya seti"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "kwa kutumia Windows Explorer."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Maelezo ya leseni -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC inawakilisha Creative Commons. Leseni hii ina lahaja kadhaa,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "lakini kwa programu ya bure kama Nimzo_3d, inamaanisha kuwa unaweza kutumia"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "na kusambaza mfano kwa njia yoyote inayofaa."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Hapa kuna kiunga cha maelezo kamili ya leseni -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "ni <Matumizi ya kibinafsi > leseni ya miundo"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "kwenye tovuti ya Cults3d."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "Kimsingi ina maana kwamba mfano ni kwa ajili ya matumizi yako mwenyewe na"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "haiwezi kusambazwa tena bila idhini ya modeli."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Hapa kuna kiunga cha maelezo kamili ya leseni -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Seti mpya za chess zinaweza kuundwa kutoka kwa mifano ya 3d."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Nilitumia Autodesk 3ds Max kwa mchakato huu."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Utahitaji kigeuzi cha programu-jalizi cha DirectX kwa 3ds Max."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "ambayo inaweza kupakuliwa kutoka kwa viungo vifuatavyo -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "Kwa matoleo mapya zaidi ya 3ds Max -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "Kwa matoleo ya zamani ya 3ds Max -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Programu-jalizi inapaswa kusakinishwa katika saraka ya programu-jalizi ya 3ds Max."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Kisha unaingiza faili ya kipande ndani ya 3ds Max, punguza hadi saizi sahihi,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "katikati ya gridi ya taifa na kisha kuuza nje mfano kwa faili DirectX."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Utalazimika kurudia mchakato wa kiwango, kituo na usafirishaji mara kadhaa"
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "ili kupata saizi ya kipande inayofaa."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Nikaona bora nianze na mfalme"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "na uweke programu ya Nimzo_3d wazi wakati wa mchakato,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "ili niweze kufuatilia matokeo kwa urahisi zaidi."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "Shimo moja la kufahamu, ni kwamba aina zingine za 3d hazina"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "Viwianishi vya uchoraji wa ramani vya UV vilivyojengwa ndani ya modeli."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Hizi zinahitajika kwa vipande vilivyofungwa na bitmap."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Ingawa kuna njia ngumu zaidi zinazopatikana za kuunda"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "Uratibu wa UV, niligundua kuwa chaguzi zilizojengwa zinatosha kabisa."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Kwa mtindo uliochaguliwa, basi unachagua chaguo la < Kurekebisha >"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "kutoka kwa upau wa vidhibiti kwenye dirisha la paneli la upande wa kulia."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Kisha dondosha chini < Orodha ya Kurekebisha> Sogeza chini orodha na"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "kutoka kwa <Object - modifiers nafasi > bonyeza chaguo la <UVW Map > chaguo."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Kisha kuna chaguzi nyingi za kuchagua."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Kawaida mimi huchagua < Shrink wrap > < Fit > < Bitmap fit >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "na kisha uchague bitmap ya mraba ya pikseli 256, kama zile zinazotumika katika Nimzo_3d."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Kisha chagua < Export > na uchague kigeuzi cha DirectX kutoka kwenye orodha."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Saraka mpya inapaswa kuwa na umbizo sawa na zilizopo."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "k.m < Weka l - chess kuweka jina na modeler >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Barua inapaswa kuwa ya kwanza ya bure inayopatikana kwa alfabeti."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "yaani ikiwa seti ya mwisho ni < Set k > basi mpya inapaswa kuwa < Set l >"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Ikiwa unataka picha ya seti yako mpya ionyeshwe kwenye kisanduku cha mazungumzo"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "nao unaweza kutengeneza picha ya skrini ya seti ukitumia zana ya kufyatua ya Windows"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "na kuiweka kwenye saraka mpya.  Inapaswa kuwa na upana wa saizi 250 na urefu wa pikseli 200."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Unaweza kupakua toleo la majaribio la Autodesk 3ds Max"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "kama huna tayari."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Pia kuna vibadilishaji programu-jalizi vya DirectX kwa uhariri wa bure, wa 3d"
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "programu"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "lakini sikuweza kuwafanya wafanye kazi ipasavyo."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Unaweza kuwa na mafanikio zaidi."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Msaada wa jinsi ya kuunda seti ya chess kutoka kwa mfano wa 3d"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Hifadhi chaguo za sasa za 3d kwenye diski"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Pakia chaguzi za sasa za 3d kutoka kwa diski"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Msaada kwa seti ya 3d ya chess iliyochaguliwa"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Kuna seti ya"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "kipande faili katika kila saraka."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Mara baada ya kuwa na sita"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "kipande faili, tengeneza saraka mpya ndogo ndani"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Seti tano mpya za vipande vya 2d (toleo la 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Seti kumi mpya za vipande vya 3d (toleo la 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Saraka za seti za 3d za chess hazikupatikana kwenye diski,"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "kwa hivyo hakuna seti zaidi za 3d za kuchagua."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "Hakuna saraka za 3d za chess kwenye diski,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "kwa hivyo picha za 3d hazitafanya kazi."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Baadhi ya seti mpya za chess za 3d zina wima nyingi zaidi kwenye vipande"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "kuliko seti ya < Original >, kwa sababu ziliundwa kwa uchapishaji wa 3d"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Ikiwa una kompyuta ya zamani, unaweza kupata kwamba inajitahidi"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "ili kuonyesha vipande kwa wakati."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Seti iliyo na hesabu ya juu zaidi ya vertex ni seti ya < Dubrovnik > chess."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Kwa hivyo ikiwa kompyuta yako inafanya kazi vizuri na hii,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "itakuwa sawa na wengine wote."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Hifadhi chaguo"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "Hifadhi chaguzi za 3d"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Chagua faili ya .dxo ili kuhifadhi chaguo za 3d"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Chaguzi za mzigo"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "Pakia chaguzi za 3d"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Chagua faili ya .dxo ili kupakia chaguo za 3d"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Hifadhi chaguo.. ​​- Hifadhi chaguo za sasa za 3d kwenye faili."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Pakia chaguzi.. - Pakia chaguzi za sasa za 3d kutoka kwa faili."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Hifadhi chaguo za sasa za 3d kwenye faili"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Pakia chaguzi za sasa za 3d kutoka kwa faili"
