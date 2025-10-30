@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Izvēlieties šaha komplektu"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Izvēlieties izmantojamo 3D šaha komplektu"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Pieejamo 3D šaha komplektu saraksts"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Atlasīt šaha komplektu.. — Atver dialoglodziņu pašreizējā šaha komplekta atlasīšanai."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Nevar atvērt 3D opciju saglabāšanas failu"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3D opcijas saglabātas failā"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3D opcijas nav saglabātas"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Nevar atvērt 3D opciju failu"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3D opcijas ielādētas no"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Nevarēja nolasīt 3D opciju failu"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Izvēlieties 3D šaha komplektu, ko izmantot"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Šaha komplekta attēls"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Pašreizējā šaha komplekta detaļas"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Pašreizējā šaha komplekta attēls"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Izveidojiet šaha komplektu"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Šis dialoglodziņš ļauj atlasīt pašreizējo 3D šaha komplektu."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Noklikšķiniet uz nolaižamās izvēles lodziņa lejupvērstās bultiņas"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "lai atklātu pieejamo šaha komplektu sarakstu."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Noklikšķiniet uz šaha komplekta, lai skatītu sīkāku informāciju un attēlu"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "no izvēlētā šaha komplekta."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Noklikšķiniet uz Labi, lai apstiprinātu savu izvēli."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Šaha figūru direktoriji ar DirectX failiem atrodas direktorijā -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "DirectX fragmentu failus var apmainīt starp komplektiem."
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "izmantojot Windows Explorer."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Licences informācija —"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC apzīmē Creative Commons. Šai licencei ir vairāki varianti,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "bet ar bezmaksas programmu, piemēram, Nimzo_3d, tas nozīmē, ka jūs varat izmantot"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "un izplatīt modeli jebkādā saprātīgā veidā."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Šeit ir saite uz pilniem licenču aprakstiem —"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "ir modeļu < Personīgai lietošanai > licence"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "Cults3d tīmekļa vietnē."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "Būtībā tas nozīmē, ka modelis ir paredzēts jūsu pašu lietošanai."
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "nevar izplatīt tālāk bez modelētāja atļaujas."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Šeit ir saite uz pilnu licences aprakstu —"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Jaunus šaha komplektus var izveidot no 3D modeļiem."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Šim procesam es izmantoju Autodesk 3ds Max."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Jums būs nepieciešams spraudnis ar DirectX pārveidotāju 3ds Max."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "ko var lejupielādēt no šīm saitēm —"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "Jaunākām 3ds Max versijām —"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "Vecākām 3ds Max versijām —"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Spraudnim jābūt instalētam 3ds Max spraudņu direktorijā."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Pēc tam importējat gabala failu programmā 3ds Max, samaziniet to līdz pareizajam izmēram,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "centrējiet to režģu vidū un pēc tam eksportējiet modeli uz DirectX failu."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Jums būs vairākas reizes jāatkārto mērogošanas, centrēšanas un eksportēšanas process."
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "lai gabala izmērs būtu saprātīgs."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Es uzskatīju par labāko sākt ar karali"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "un procesa laikā turiet atvērtu programmu Nimzo_3d,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "lai es varētu vieglāk uzraudzīt rezultātus."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "Viens trūkums, kas jāņem vērā, ir tas, ka dažiem 3D modeļiem nav"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "Modelī iebūvētās UV kartēšanas koordinātas."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Tie ir nepieciešami, lai gabali tiktu ietīti ar bitkarti."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Lai gan ir pieejamas sarežģītākas metodes, lai izveidotu"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "UV koordinātas, es atklāju, ka iebūvētās opcijas ir diezgan atbilstošas."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Kad modelis ir atlasīts, atlasiet opciju <Modificēt>."
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "no rīkjoslas loga labajā pusē esošajā panelī."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Pēc tam nolaižamajā izvēlnē atlasiet <Modificētāju saraksts> un ritiniet sarakstu uz leju."
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "sadaļā <Objekts - telpas modifikatori> noklikšķiniet uz opcijas <UVW karte>."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Tad ir daudz iespēju, no kurām izvēlēties."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "Parasti es izvēlos <Shrink wrap > <Fit > <Bitmap fit >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "un pēc tam atlasiet kvadrātveida 256 pikseļu bitkarti, piemēram, tādas, kādas tiek izmantotas Nimzo_3d."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Pēc tam atlasiet <Eksportēt> un sarakstā izvēlieties DirectX pārveidotāju."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Jaunajam direktorijam jābūt tādā pašā formātā kā esošajiem."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "piem., < Komplekts l - modelētāja piešķirtais šaha komplekta nosaukums>"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Burtam jābūt pirmajam brīvajam pieejamajam burtam alfabētiskā secībā."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "t. i., ja pēdējā kopa ir < Kopiņa k>, tad jaunajai kopai jābūt < Kopiņa l>."
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Ja vēlaties, lai dialoglodziņā tiktu parādīts jaunā komplekta attēls"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "varat izveidot ekrānuzņēmumu no komplekta, izmantojot Windows izgriešanas rīku"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "un ievietojiet to jaunajā direktorijā. Tam jābūt 250 pikseļu platumā un 200 pikseļu augstumā."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Jūs varat lejupielādēt bezmaksas Autodesk 3ds Max izmēģinājuma versiju"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "ja jums tāda vēl nav."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Ir pieejami arī DirectX spraudņu pārveidotāji bezmaksas 3D modeļu rediģēšanai."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "programma"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "bet man neizdevās panākt, lai tie darbotos pareizi."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "Jums varētu būt lielāki panākumi."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Palīdzība, kā izveidot šaha komplektu no 3D modeļa"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Saglabāt pašreizējās 3D opcijas diskā"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Ielādēt pašreizējās 3D opcijas no diska"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Palīdzība 3D šaha komplekta izvēlē"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Ir komplekts"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "gabalu faili katrā direktorijā."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Kad esat ieguvis sešus"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "gabalfailus, izveidojiet jaunu apakšdirektoriju"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Pieci jauni 2D gabalu komplekti (4.0 versija)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Desmit jauni 3D figūriņu komplekti (4.0 versija)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Diskā netika atrastas papildu 3D šaha komplektu direktorijas."
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "tāpēc vairs nav 3D komplektu, no kuriem izvēlēties."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "Diskā nav 3D šaha komplektu direktoriju,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "tāpēc 3D grafika nedarbosies."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Dažiem jaunajiem 3D šaha komplektiem ir daudz vairāk virsotņu figūrās."
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "nekā komplekts <Oriģināls>, jo tie bija paredzēti 3D drukāšanai"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Ja jums ir vecāks dators, iespējams, ka tam ir grūtības"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "lai savlaicīgi parādītu gabalus."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Komplekts ar vislielāko virsotņu skaitu ir <Dubrovnik> šaha komplekts."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Tātad, ja jūsu dators darbojas labi ar šo,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "ar visiem pārējiem viss būs kārtībā."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Saglabāšanas opcijas"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "Saglabāt 3D opcijas"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Atlasiet .dxo failu, lai saglabātu 3D opcijas"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Ielādes opcijas"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "Ielādēt 3D opcijas"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Atlasiet .dxo failu, lai ielādētu 3D opcijas"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Saglabāt opcijas.. — Saglabāt pašreizējās 3D opcijas failā."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Ielādēt opcijas.. — Ielādēt pašreizējās 3D opcijas no faila."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Saglabāt pašreizējās 3D opcijas failā"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Ielādēt pašreizējās 3D opcijas no faila"
