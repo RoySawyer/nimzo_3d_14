@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "சதுரங்கத் தொகுப்பைத் தேர்ந்தெடுக்கவும்"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "பயன்படுத்த 3D சதுரங்கத் தொகுப்பைத் தேர்ந்தெடுக்கவும்."
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "கிடைக்கக்கூடிய 3டி சதுரங்கத் தொகுப்புகளின் பட்டியல்"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "சதுரங்கத் தொகுப்பைத் தேர்ந்தெடுக்கவும்.. - தற்போதைய சதுரங்கத் தொகுப்பைத் தேர்ந்தெடுக்க ஒரு உரையாடல் பெட்டியைத் திறக்கிறது."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "கோப்பைச் சேமிக்க 3D விருப்பங்களைத் திறக்க முடியவில்லை."
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3D விருப்பங்கள் கோப்பில் சேமிக்கப்பட்டன."
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3D விருப்பங்கள் சேமிக்கப்படவில்லை."
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "3D விருப்பங்கள் கோப்பைத் திறக்க முடியவில்லை."
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3D விருப்பங்கள் இதிலிருந்து ஏற்றப்பட்டன"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "3D விருப்பங்கள் கோப்பைப் படிக்க முடியவில்லை."
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "பயன்படுத்த 3D சதுரங்கத் தொகுப்பைத் தேர்ந்தெடுக்கவும்."
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "சதுரங்கப் போட்டி படம்"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "தற்போதைய சதுரங்கத் தொகுப்பின் விவரங்கள்"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "தற்போதைய சதுரங்கத் தொகுப்பின் படம்"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "சதுரங்கத் தொகுப்பை உருவாக்கு"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "இந்த உரையாடல் பெட்டி தற்போதைய 3D சதுரங்கத் தொகுப்பைத் தேர்ந்தெடுக்க உங்களை அனுமதிக்கிறது."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "கீழ்தோன்றும் தேர்வுப் பெட்டியின் கீழ்நோக்கிய அம்புக்குறியைக் கிளிக் செய்யவும்."
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "கிடைக்கக்கூடிய சதுரங்கத் தொகுப்புகளின் பட்டியலை வெளிப்படுத்த."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "விவரங்களையும் படத்தையும் காண சதுரங்கத் தொகுப்பின் மீது கிளிக் செய்யவும்."
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "தேர்ந்தெடுக்கப்பட்ட சதுரங்கத் தொகுப்பின்."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "உங்கள் தேர்வை உறுதிப்படுத்த சரி என்பதைக் கிளிக் செய்யவும்."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "டைரக்ட்எக்ஸ் கோப்புகளைக் கொண்ட சதுரங்கப் பகுதி கோப்பகங்கள் கோப்பகத்தில் உள்ளன -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "டைரக்ட்எக்ஸ் துண்டு கோப்புகளை தொகுப்புகளுக்கு இடையில் மாற்றலாம்."
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "விண்டோஸ் எக்ஸ்ப்ளோரரைப் பயன்படுத்தி."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "உரிமத் தகவல் -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC என்பது கிரியேட்டிவ் காமன்ஸைக் குறிக்கிறது. இந்த உரிமம் பல வகைகளைக் கொண்டுள்ளது,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "ஆனால் Nimzo_3d போன்ற இலவச நிரலுடன், நீங்கள் பயன்படுத்தலாம் என்று அர்த்தம்"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "மற்றும் மாதிரியை எந்த நியாயமான வழியிலும் விநியோகிக்கவும்."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "உரிமங்களின் முழு விளக்கங்களுக்கான இணைப்பு இங்கே -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "என்பது மாடல்களுக்கான தனிப்பட்ட பயன்பாடு > உரிமமாகும்"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "Cults3d இணையதளத்தில்."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "அடிப்படையில் இதன் பொருள் மாதிரி உங்கள் சொந்த பயன்பாட்டிற்கானது மற்றும்"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "மாடலரின் அனுமதியின்றி மீண்டும் விநியோகிக்க முடியாது."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "உரிமத்தின் முழு விளக்கத்திற்கான இணைப்பு இங்கே -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "3டி மாடல்களில் இருந்து புதிய சதுரங்கத் தொகுப்புகளை உருவாக்க முடியும்."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "இந்த செயல்முறைக்கு நான் Autodesk 3ds Max ஐப் பயன்படுத்தினேன்."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "3ds Max-க்கு உங்களுக்கு ஒரு செருகுநிரல் DirectX மாற்றி தேவைப்படும்."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "பின்வரும் இணைப்புகளிலிருந்து பதிவிறக்கம் செய்யலாம் -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "3ds Max இன் புதிய பதிப்புகளுக்கு -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "3ds Max இன் பழைய பதிப்புகளுக்கு -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "செருகுநிரல் 3ds Max செருகுநிரல்கள் கோப்பகத்தில் நிறுவப்பட வேண்டும்."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "பின்னர் நீங்கள் ஒரு துண்டு கோப்பை 3ds Max இல் இறக்குமதி செய்து, அதை சரியான அளவிற்குக் குறைத்து,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "அதை கட்டங்களின் நடுவில் மையப்படுத்தி, பின்னர் மாதிரியை ஒரு DirectX கோப்பிற்கு ஏற்றுமதி செய்யவும்."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "நீங்கள் அளவுகோல், மையம் மற்றும் ஏற்றுமதி செயல்முறையை பல முறை மீண்டும் செய்ய வேண்டியிருக்கும்."
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "துண்டின் அளவை நியாயமானதாகப் பெற."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "ராஜாவுடன் தொடங்குவது சிறந்தது என்று நான் கண்டேன்."
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "மேலும் செயல்முறையின் போது Nimzo_3d நிரலைத் திறந்து வைத்திருங்கள்,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "அதனால் முடிவுகளை எளிதாகக் கண்காணிக்க முடிந்தது."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "சில 3D மாடல்களில் இல்லாதது ஒரு குறை என்பதை நினைவில் கொள்ளுங்கள்."
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "மாதிரியில் கட்டமைக்கப்பட்ட UV மேப்பிங் ஒருங்கிணைப்புகள்."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "பிட்மேப்பில் துண்டுகள் சுற்றப்படுவதற்கு இவை தேவை."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "உருவாக்குவதற்கு மிகவும் சிக்கலான முறைகள் இருந்தாலும்"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "UV ஆயத்தொலைவுகள், உள்ளமைக்கப்பட்ட விருப்பங்கள் மிகவும் போதுமானதாக இருப்பதைக் கண்டேன்."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "மாதிரி தேர்ந்தெடுக்கப்பட்டவுடன், நீங்கள் Modify > விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "வலது பக்க பலக சாளரத்தில் உள்ள கருவிப்பட்டியில் இருந்து."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "பின்னர் மாற்றியமைப்பான் பட்டியலை கீழே இறக்கி > பட்டியலை கீழே உருட்டவும் மற்றும்"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "<பொருள் - இடம் மாற்றியமைப்பாளர்கள் > பிரிவில் இருந்து UVW வரைபடம் > விருப்பத்தை சொடுக்கவும்."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "பின்னர் தேர்வு செய்ய பல விருப்பங்கள் உள்ளன."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "நான் வழக்கமாக சுருக்கு மடக்கு > < ஃபிட் > < பிட்மேப் பொருத்தம் > என்பதைத் தேர்ந்தெடுக்கிறேன்."
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "பின்னர் Nimzo_3d இல் பயன்படுத்தப்பட்டதைப் போல ஒரு சதுர 256 பிக்சல் பிட்மேப்பைத் தேர்ந்தெடுக்கவும்."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "பின்னர் ஏற்றுமதி > என்பதைத் தேர்ந்தெடுத்து பட்டியலிலிருந்து டைரக்ட்எக்ஸ் மாற்றியைத் தேர்ந்தெடுக்கவும்."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "புதிய கோப்பகம் ஏற்கனவே உள்ள கோப்பகங்களைப் போலவே இருக்க வேண்டும்."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "எ.கா. <செட் எல் - மாடலரின் சதுரங்கத் தொகுப்பின் பெயர் >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "அகர வரிசைப்படி கிடைக்கும் முதல் இலவச கடிதமாக கடிதம் இருக்க வேண்டும்."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "அதாவது கடைசி தொகுப்பு <Set k > எனில் புதியது <Set l > ஆக இருக்க வேண்டும்."
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "உங்கள் புதிய தொகுப்பின் படம் உரையாடல் பெட்டியில் காட்டப்பட வேண்டுமென்றால்"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "விண்டோஸ் ஸ்னிப்பிங் கருவியைப் பயன்படுத்தி நீங்கள் தொகுப்பின் ஸ்கிரீன் ஷாட்டை எடுக்கலாம்."
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "புதிய கோப்பகத்தில் வைக்கவும். இது 250 பிக்சல்கள் அகலம் 200 பிக்சல்கள் உயரம் இருக்க வேண்டும்."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "நீங்கள் Autodesk 3ds Max இன் இலவச சோதனை பதிப்பைப் பதிவிறக்கலாம்."
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "உங்களிடம் ஏற்கனவே ஒன்று இல்லையென்றால்."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "இலவச, 3D மாதிரி எடிட்டிங்கிற்கான DirectX செருகுநிரல் மாற்றிகளும் உள்ளன."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "திட்டம்"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "ஆனால் அவற்றை சரியாக வேலை செய்ய வைக்க முடியவில்லை."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "நீங்கள் அதிக வெற்றியைப் பெறலாம்."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "3D மாதிரியிலிருந்து ஒரு சதுரங்கத் தொகுப்பை எவ்வாறு உருவாக்குவது என்பது குறித்த உதவி."
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "தற்போதைய 3D விருப்பங்களை வட்டில் சேமிக்கவும்."
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "வட்டில் இருந்து தற்போதைய 3D விருப்பங்களை ஏற்றவும்."
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "தேர்ந்தெடுக்கப்பட்ட 3D சதுரங்கத் தொகுப்பிற்கான உதவி"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "ஒரு தொகுப்பு உள்ளது"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "ஒவ்வொரு கோப்பகத்திலும் துண்டு கோப்புகள்."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "நீங்கள் ஆறு பெற்றவுடன்"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "துண்டு கோப்புகளை, ஒரு புதிய துணை கோப்பகத்தை உருவாக்கவும்"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "ஐந்து புதிய 2D துண்டுத் தொகுப்புகள் (பதிப்பு 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "பத்து புதிய 3D துண்டுத் தொகுப்புகள் (பதிப்பு 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "வட்டில் கூடுதல் 3D சதுரங்க தொகுப்பு கோப்பகங்கள் காணப்படவில்லை,"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "எனவே தேர்வு செய்ய இனி 3D செட்கள் எதுவும் இல்லை."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "வட்டில் 3d சதுரங்க தொகுப்பு கோப்பகங்கள் எதுவும் இல்லை,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "அதனால் 3டி கிராபிக்ஸ் வேலை செய்யாது."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "புதிய 3D சதுரங்கத் தொகுப்புகளில் சிலவற்றில் இன்னும் பல முனைகள் உள்ளன."
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "<Original > தொகுப்பை விட, ஏனெனில் அவை 3D அச்சிடலுக்காக வடிவமைக்கப்பட்டுள்ளன."
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "உங்களிடம் பழைய கணினி இருந்தால், அது சிரமப்படுவதை நீங்கள் காணலாம்."
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "துண்டுகளை சரியான நேரத்தில் காட்சிப்படுத்த."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "அதிக உச்சி எண்ணிக்கையைக் கொண்ட தொகுப்பு டப்ரோவ்னிக் > சதுரங்கத் தொகுப்பாகும்."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "எனவே உங்கள் கணினி இதனுடன் நன்றாக வேலை செய்தால்,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "மற்ற அனைவருக்கும் இது நன்றாக இருக்கும்."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "விருப்பங்களைச் சேமிக்கவும்"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "3D விருப்பங்களைச் சேமிக்கவும்"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "3D விருப்பங்களைச் சேமிக்க .dxo கோப்பைத் தேர்ந்தெடுக்கவும்."
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "விருப்பங்களை ஏற்று"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "3D விருப்பங்களை ஏற்று"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "3D விருப்பங்களை ஏற்ற .dxo கோப்பைத் தேர்ந்தெடுக்கவும்."
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "விருப்பங்களைச் சேமிக்கவும்.. - தற்போதைய 3d விருப்பங்களை ஒரு கோப்பில் சேமிக்கவும்."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "விருப்பங்களை ஏற்றவும்.. - ஒரு கோப்பிலிருந்து தற்போதைய 3d விருப்பங்களை ஏற்றவும்."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "தற்போதைய 3D விருப்பங்களை ஒரு கோப்பில் சேமிக்கவும்."
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "ஒரு கோப்பிலிருந்து தற்போதைய 3D விருப்பங்களை ஏற்றவும்."
