@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "Selectați setul de șah"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "Selectați setul de șah 3D de utilizat"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "Lista seturilor de șah 3D disponibile"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "Selectați setul de șah.. - Deschide o casetă de dialog pentru a selecta setul de șah curent."
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "Nu se poate deschide fișierul de salvare cu opțiunile 3D"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "Opțiuni 3D salvate în fișier"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "Opțiunile 3D nu au fost salvate"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "Nu se poate deschide fișierul cu opțiuni 3D"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "Opțiuni 3D încărcate din"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "Nu s-a putut citi fișierul cu opțiuni 3D"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "Selectați setul de șah 3D de utilizat"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "Imagine cu set de șah"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "Detalii despre setul de șah actual"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "Imagine a setului de șah actual"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "Creați un set de șah"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "Această casetă de dialog vă permite să selectați setul de șah 3D curent."
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "Faceți clic pe săgeata în jos a casetei derulante de opțiuni"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "pentru a dezvălui o listă cu seturile de șah disponibile."
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "Faceți clic pe un set de șah pentru a vedea detaliile și o imagine"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "din setul de șah selectat."
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "Faceți clic pe Ok pentru a confirma selecția."
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "Directoarele pieselor de șah cu fișierele DirectX se află în directorul -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "Fișierele DirectX pot fi schimbate între seturi"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "folosind Exploratorul Windows."
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "Informații despre licență -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CC este prescurtarea de la Creative Commons. Această licență are mai multe variante,"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "dar cu un program gratuit precum Nimzo_3d, înseamnă că poți folosi"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "și să distribuie modelul în orice mod rezonabil."
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "Iată linkul către descrierile complete ale licențelor -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "este licența <Utilizare personală> pentru modele"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "pe site-ul Cults3d."
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "Practic, înseamnă că modelul este pentru uz propriu și"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "nu poate fi redistribuit fără permisiunea modelatorului."
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "Iată linkul către descrierea completă a licenței -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "Noi seturi de șah pot fi create din modele 3D."
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "Am folosit Autodesk 3ds Max pentru acest proces."
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "Vei avea nevoie de un convertor DirectX tip plugin pentru 3ds Max."
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "care poate fi descărcat de la următoarele linkuri -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "Pentru versiunile mai noi de 3ds Max -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "Pentru versiunile mai vechi de 3ds Max -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "Pluginul trebuie instalat în directorul de pluginuri 3ds Max."
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "Apoi importați un fișier fragment în 3ds Max, îl scalați la dimensiunea corectă,"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "centrați-l în mijlocul grilelor și apoi exportați modelul într-un fișier DirectX."
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "Va trebui să repetați procesul de scalare, centrare și exportare de mai multe ori."
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "pentru a obține o dimensiune rezonabilă a piesei."
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "Am considerat că e mai bine să încep cu regele"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "și mențineți programul Nimzo_3d deschis în timpul procesului,"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "ca să pot urmări rezultatele mai ușor."
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "O capcană de care trebuie să fii conștient este că unele modele 3D nu au"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "Coordonate de mapare UV încorporate în model."
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "Acestea sunt necesare pentru ca piesele să fie înfășurate cu bitmap-ul."
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "Deși există metode mai complexe disponibile pentru a crea"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "Coordonate UV, am constatat că opțiunile încorporate sunt destul de adecvate."
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "Cu modelul selectat, selectați apoi opțiunea <Modificare>"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "din bara de instrumente din fereastra panoului din partea dreaptă."
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "Apoi, derulați <Lista de modificatori>. Derulați în jos în listă și"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "Din secțiunea < Obiect - modificatori de spațiu >, faceți clic pe opțiunea < Hartă UVW >."
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "Apoi, există multe opțiuni din care să alegi."
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "De obicei, selectez < Încadrare contractivă > < Potrivire > < Potrivire bitmap >"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "și apoi selectați un bitmap pătrat de 256 de pixeli, precum cele utilizate în Nimzo_3d."
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "Apoi selectați <Export> și alegeți convertorul DirectX din listă."
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "Noul director ar trebui să aibă același format ca cele existente."
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "de ex. < Set l - numele setului de șah după modelator >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "Litera ar trebui să fie prima liberă disponibilă în ordine alfabetică."
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "adică, dacă ultima setare este < Set k >, atunci cea nouă ar trebui să fie < Set l >"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "Dacă doriți ca o imagine a noului set să fie afișată în caseta de dialog"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "le puteți face o captură de ecran a setului cu instrumentul de decupare din Windows"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "și puneți-l în noul director. Ar trebui să aibă 250 pixeli lățime și 200 pixeli înălțime."
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Puteți descărca o versiune de încercare gratuită a Autodesk 3ds Max"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "dacă nu aveți deja unul."
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "Există, de asemenea, convertoare plugin DirectX pentru editarea gratuită a modelelor 3D."
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "program"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "dar nu am reușit să le fac să funcționeze corect."
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "S-ar putea să ai mai mult succes."
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "Ajutor despre cum să creezi un set de șah dintr-un model 3D"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "Salvați opțiunile 3D curente pe disc"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "Încarcă opțiunile 3D curente de pe disc"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "Ajutor pentru selectarea seturilor de șah 3D"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "Există un set de"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "fișiere piece din fiecare director."
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "Odată ce ai cele șase"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "fișiere piece, creați un nou subdirector în"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "Cinci seturi noi de piese 2D (versiunea 4.0)"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "Zece seturi noi de piese 3D (versiunea 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "Nu au fost găsite directoare suplimentare pentru seturile de șah 3D pe disc."
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "deci nu mai există seturi 3D din care să alegeți."
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "Nu există directoare cu seturi de șah 3D pe disc,"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "deci grafica 3D nu va funcționa."
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "Unele dintre noile seturi de șah 3D au mult mai multe vârfuri în piese"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "decât setul <Original>, deoarece au fost proiectate pentru imprimare 3D"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "Dacă aveți un computer mai vechi, este posibil să observați că are dificultăți"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "pentru a expune piesele la timp."
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "Setul cu cel mai mare număr de vârfuri este setul de șah < Dubrovnik >."
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "Deci, dacă calculatorul tău funcționează bine cu acesta,"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "va fi bine cu toate celelalte."
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "Salvați opțiunile"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "Salvați opțiunile 3D"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "Selectați fișierul .dxo pentru a salva opțiunile 3D"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "Opțiuni de încărcare"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "Încărcați opțiunile 3D"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "Selectați fișierul .dxo pentru a încărca opțiunile 3D"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "Salvare opțiuni.. - Salvați opțiunile 3D curente într-un fișier."
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "Încărcare opțiuni.. - Încarcă opțiunile 3D curente dintr-un fișier."
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "Salvați opțiunile 3D curente într-un fișier"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "Încarcă opțiunile 3D curente dintr-un fișier"
