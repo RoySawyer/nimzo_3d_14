@@ -1,0 +1,438 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-29 16:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_14.cpp:2
+msgid "Select chess set"
+msgstr "チェスセットを選択"
+
+#: main_14.cpp:4
+msgid "Select the 3d chess set to use"
+msgstr "使用する3Dチェスセットを選択してください"
+
+#: main_14.cpp:6 main_14.cpp:158
+msgid "List of available 3d chess sets"
+msgstr "利用可能な3Dチェスセットのリスト"
+
+#: main_14.cpp:8
+msgid "Select chess set..  -  Opens a dialog box to select the current chess set."
+msgstr "チェス セットを選択... - 現在のチェス セットを選択するためのダイアログ ボックスを開きます。"
+
+#: main_14.cpp:10
+msgid "Cannot open 3d options save file"
+msgstr "3Dオプションの保存ファイルを開けません"
+
+#: main_14.cpp:12
+msgid "3d options saved to file"
+msgstr "3Dオプションがファイルに保存されました"
+
+#: main_14.cpp:14
+msgid "3d options not saved"
+msgstr "3Dオプションが保存されません"
+
+#: main_14.cpp:16
+msgid "Cannot open 3d options file"
+msgstr "3Dオプションファイルを開けません"
+
+#: main_14.cpp:18
+msgid "3d options loaded from"
+msgstr "3Dオプションは以下からロードされました"
+
+#: main_14.cpp:20
+msgid "Could not read 3d options file"
+msgstr "3D オプション ファイルを読み取れませんでした"
+
+#: main_14.cpp:22
+msgid "Select 3d chess set to use"
+msgstr "使用する3Dチェスセットを選択"
+
+#: main_14.cpp:24
+msgid "Chess set image"
+msgstr "チェスセットの画像"
+
+#: main_14.cpp:26
+msgid "Details of the current chess set"
+msgstr "現在のチェスセットの詳細"
+
+#: main_14.cpp:28
+msgid "Picture of the current chess set"
+msgstr "現在のチェスセットの写真"
+
+#: main_14.cpp:30
+msgid "Create chess set"
+msgstr "チェスセットを作成する"
+
+#: main_14.cpp:32
+msgid "This dialog box allows you to select the current 3d chess set."
+msgstr "このダイアログ ボックスでは、現在の 3D チェス セットを選択できます。"
+
+#: main_14.cpp:34
+msgid "Click on the down arrow of the drop down choice box"
+msgstr "ドロップダウン選択ボックスの下矢印をクリックします"
+
+#: main_14.cpp:36
+msgid "to reveal a list of the available chess sets."
+msgstr "利用可能なチェス セットのリストを表示します。"
+
+#: main_14.cpp:38
+msgid "Click on a chess set to see the details and a picture"
+msgstr "チェスセットをクリックすると詳細と写真が表示されます"
+
+#: main_14.cpp:40
+msgid "of the selected chess set."
+msgstr "選択したチェス セットの。"
+
+#: main_14.cpp:42
+msgid "Click Ok to confirm your selection."
+msgstr "選択内容を確認するには、「OK」をクリックします。"
+
+#: main_14.cpp:44
+msgid "The chess piece directories with the DirectX files are in the directory -"
+msgstr "DirectXファイルを含むチェスの駒のディレクトリは次のディレクトリにあります -"
+
+#: main_14.cpp:46
+msgid "The DirectX piece files can be swapped between the sets"
+msgstr "DirectXピースファイルはセット間で交換できます"
+
+#: main_14.cpp:48
+msgid "using Windows explorer."
+msgstr "Windows エクスプローラーを使用します。"
+
+#: main_14.cpp:50
+msgid "License information -"
+msgstr "ライセンス情報 -"
+
+#: main_14.cpp:52
+msgid "CC stands for Creative Commons. This license has several variants,"
+msgstr "CCはクリエイティブ・コモンズの略です。このライセンスにはいくつかのバリエーションがあり、"
+
+#: main_14.cpp:54
+msgid "but with a free program like Nimzo_3d, it means that you can use"
+msgstr "しかし、Nimzo_3dのような無料プログラムでは、"
+
+#: main_14.cpp:56
+msgid "and distribute the model in any reasonable way."
+msgstr "そして、そのモデルを合理的な方法で配布します。"
+
+#: main_14.cpp:58
+msgid "Here is the link to the full descriptions of the licenses -"
+msgstr "ライセンスの詳細な説明へのリンクはこちらです -"
+
+#: main_14.cpp:60
+msgid "is the < Personal use > license for models"
+msgstr "モデルの<個人使用>ライセンスです"
+
+#: main_14.cpp:62
+msgid "on the Cults3d website."
+msgstr "Cults3dのウェブサイトで。"
+
+#: main_14.cpp:64
+msgid "Basically it means that the model is for your own usage and"
+msgstr "基本的に、モデルはあなた自身の使用のためであり、"
+
+#: main_14.cpp:66
+msgid "cannot be re-distributed without the permission of the modeller."
+msgstr "モデラーの許可なしに再配布することはできません。"
+
+#: main_14.cpp:68
+msgid "Here is the link to the full description of the license -"
+msgstr "ライセンスの詳細な説明へのリンクはこちらです -"
+
+#: main_14.cpp:70
+msgid "New chess sets can be created from 3d models."
+msgstr "3D モデルから新しいチェス セットを作成できます。"
+
+#: main_14.cpp:72
+msgid "I used Autodesk 3ds Max for this process."
+msgstr "このプロセスには Autodesk 3ds Max を使用しました。"
+
+#: main_14.cpp:74
+msgid "You will need a plug-in DirectX converter for 3ds Max."
+msgstr "3ds Max 用のプラグイン DirectX コンバーターが必要になります。"
+
+#: main_14.cpp:76
+msgid "which can be downloaded from the following links -"
+msgstr "以下のリンクからダウンロードできます -"
+
+#: main_14.cpp:78
+msgid "For newer versions of 3ds Max -"
+msgstr "3ds Maxの新しいバージョンの場合 -"
+
+#: main_14.cpp:80
+msgid "For older versions of 3ds Max -"
+msgstr "3ds Maxの旧バージョンの場合 -"
+
+#: main_14.cpp:82
+msgid "The plug-in should be installed in the 3ds Max plug-ins directory."
+msgstr "プラグインは 3ds Max プラグイン ディレクトリにインストールする必要があります。"
+
+#: main_14.cpp:84
+msgid "Then you import a piece file into 3ds Max, scale it down to the correct size,"
+msgstr "次にピースファイルを3ds Maxにインポートし、適切なサイズに縮小します。"
+
+#: main_14.cpp:86
+msgid "centre it in the middle of the grids and then export the model to a DirectX file."
+msgstr "グリッドの中央に配置し、モデルを DirectX ファイルにエクスポートします。"
+
+#: main_14.cpp:88
+msgid "You will have to repeat the scale, centre and export process several times"
+msgstr "スケール、中央揃え、エクスポートのプロセスを数回繰り返す必要があります。"
+
+#: main_14.cpp:90
+msgid "to get the size of the piece reasonable."
+msgstr "ピースのサイズを適切なものにするためです。"
+
+#: main_14.cpp:92
+msgid "I found it best to start with the king"
+msgstr "私は王から始めるのが最善だと考えた"
+
+#: main_14.cpp:94
+msgid "and keep the Nimzo_3d program open during the process,"
+msgstr "プロセス中はNimzo_3dプログラムを開いたままにしておきます。"
+
+#: main_14.cpp:96
+msgid "so that I could monitor the results more easily."
+msgstr "結果をより簡単に監視できるようにするためです。"
+
+#: main_14.cpp:98
+msgid "One pitfall to be aware of, is that some 3d models do not have"
+msgstr "注意すべき落とし穴は、一部の3Dモデルには"
+
+#: main_14.cpp:100
+msgid "UV mapping co-ordinates built into the model."
+msgstr "モデルに組み込まれた UV マッピング座標。"
+
+#: main_14.cpp:102
+msgid "These are needed for the pieces to be wrapped with the bitmap."
+msgstr "これらは、ビットマップでラップされる部分に必要です。"
+
+#: main_14.cpp:104
+msgid "Although there are more complex methods available to create the"
+msgstr "より複雑な方法もありますが、"
+
+#: main_14.cpp:106
+msgid "UV co-ordinates, I found that the built in options are quite adequate."
+msgstr "UV 座標に関しては、組み込みのオプションが十分であることがわかりました。"
+
+#: main_14.cpp:108
+msgid "With the model selected, you then select the < Modify > option"
+msgstr "モデルを選択した状態で、< 変更 > オプションを選択します。"
+
+#: main_14.cpp:110
+msgid "from the toolbar in the right hand side panel window."
+msgstr "右側のパネルウィンドウのツールバーから。"
+
+#: main_14.cpp:112
+msgid "Then drop down the < Modifier list >  Scroll down the list and"
+msgstr "次に、< 修飾子リスト > をドロップダウンし、リストを下にスクロールして"
+
+#: main_14.cpp:114
+msgid "from the < Object - space modifiers > section click the < UVW Map > option."
+msgstr "< オブジェクト空間モディファイヤ > セクションで < UVW マップ > オプションをクリックします。"
+
+#: main_14.cpp:116
+msgid "Then there are many options to choose from."
+msgstr "次に、選択できるオプションが多数あります。"
+
+#: main_14.cpp:118
+msgid "I usually select < Shrink wrap > < Fit > < Bitmap fit >"
+msgstr "私は通常、<シュリンクラップ> <フィット> <ビットマップフィット>を選択します。"
+
+#: main_14.cpp:120
+msgid "and then select a square 256 pixel bitmap, like the ones used in Nimzo_3d."
+msgstr "次に、Nimzo_3d で使用されているものと同じ、256 ピクセルの正方形のビットマップを選択します。"
+
+#: main_14.cpp:122
+msgid "Then select < Export > and choose the DirectX converter from the list."
+msgstr "次に、<エクスポート>を選択し、リストからDirectXコンバーターを選択します。"
+
+#: main_14.cpp:124
+msgid "The new directory should have the same format as the existing ones."
+msgstr "新しいディレクトリは既存のディレクトリと同じ形式にする必要があります。"
+
+#: main_14.cpp:126
+msgid "e.g  < Set l - chess set name by modeller >"
+msgstr "例: < セット l - モデラーによるチェスセット名 >"
+
+#: main_14.cpp:128
+msgid "The letter should be the first free one available alphabetically."
+msgstr "この文字は、アルファベット順で最初に空いている文字である必要があります。"
+
+#: main_14.cpp:130
+msgid "i.e if the last set is < Set k > then the new one should be < Set l >"
+msgstr "つまり、最後のセットが < Set k > の場合、新しいセットは < Set l > になります。"
+
+#: main_14.cpp:132
+msgid "If you want an image of your new set displayed in the dialog box"
+msgstr "新しいセットの画像をダイアログボックスに表示したい場合"
+
+#: main_14.cpp:134
+msgid "them you can make a screen shot of the set with Windows snipping tool"
+msgstr "Windowsのスニッピングツールでセットのスクリーンショットを取ることができます"
+
+#: main_14.cpp:136
+msgid "and put it in the new directory.  It should be 250 pixels wide by 200 pixels high."
+msgstr "新しいディレクトリに配置します。幅250ピクセル、高さ200ピクセルのサイズにしてください。"
+
+#: main_14.cpp:138
+msgid "You can download a free trial version of Autodesk 3ds Max"
+msgstr "Autodesk 3ds Maxの無料試用版をダウンロードできます"
+
+#: main_14.cpp:140
+msgid "if you don't already have one."
+msgstr "まだお持ちでない場合は、お持ちください。"
+
+#: main_14.cpp:142
+msgid "There are also DirectX plug-in converters for the free, 3d model editing"
+msgstr "無料の3Dモデル編集用のDirectXプラグインコンバータもあります"
+
+#: main_14.cpp:144
+msgid "program"
+msgstr "プログラム"
+
+#: main_14.cpp:146
+msgid "but I could not get them to work properly."
+msgstr "しかし、正常に動作させることができませんでした。"
+
+#: main_14.cpp:148
+msgid "You may have more success."
+msgstr "さらなる成功が得られるかもしれません。"
+
+#: main_14.cpp:150
+msgid "Help on how to create a chess set from a 3d model"
+msgstr "3Dモデルからチェスセットを作成する方法に関するヘルプ"
+
+#: main_14.cpp:152
+msgid "Save the current 3d options to disk"
+msgstr "現在の3Dオプションをディスクに保存します"
+
+#: main_14.cpp:154
+msgid "Load the current 3d options from disk"
+msgstr "現在の3Dオプションをディスクから読み込みます"
+
+#: main_14.cpp:156
+msgid "Help for select 3d chess set"
+msgstr "3Dチェスセットの選択に関するヘルプ"
+
+#: main_14.cpp:160
+msgid "There is a set of"
+msgstr "のセットがあります"
+
+#: main_14.cpp:161
+msgid "piece files in each directory."
+msgstr "各ディレクトリ内のピースファイル。"
+
+#: main_14.cpp:163
+msgid "Once you have the six"
+msgstr "6つ揃ったら"
+
+#: main_14.cpp:164
+msgid "piece files, make a new sub - directory in"
+msgstr "ピースファイルの場合は、新しいサブディレクトリを作成します"
+
+#: main_14.cpp:166
+msgid "Five new 2d piece sets (version 4.0)"
+msgstr "5つの新しい2Dピースセット（バージョン4.0）"
+
+#: main_14.cpp:168
+msgid "Ten new 3d piece sets (version 4.0)"
+msgstr "新しい 3D ピース セット 10 個 (バージョン 4.0)"
+
+#: main_14.cpp:170
+msgid "Extra 3d chess set directories were not found on disk,"
+msgstr "追加の3Dチェスセットディレクトリがディスク上に見つかりませんでした。"
+
+#: main_14.cpp:172
+msgid "so there are no more 3d sets to choose from."
+msgstr "そのため、選択できる 3D セットはもうありません。"
+
+#: main_14.cpp:174
+msgid "There are no 3d chess set directories on disk,"
+msgstr "ディスク上に3Dチェスセットのディレクトリはありません。"
+
+#: main_14.cpp:176
+msgid "so 3d graphics will not work."
+msgstr "そのため、3D グラフィックスは動作しません。"
+
+#: main_14.cpp:178
+msgid "Some of the new 3d chess sets have many more vertices in the pieces"
+msgstr "新しい3Dチェスセットの中には、駒の頂点がさらに増えているものもあります。"
+
+#: main_14.cpp:180
+msgid "than the < Original > set, because they were designed for 3d printing"
+msgstr "3Dプリント用に設計されているため、<オリジナル>セットよりも優れています"
+
+#: main_14.cpp:182
+msgid "If you have an older computer, you may find that it struggles"
+msgstr "古いパソコンをお使いの場合は、"
+
+#: main_14.cpp:184
+msgid "to display the pieces in a timely fashion."
+msgstr "作品をタイムリーに展示します。"
+
+#: main_14.cpp:186
+msgid "The set with the highest vertex count is the < Dubrovnik > chess set."
+msgstr "頂点数が最も多いセットは、<ドゥブロヴニク>チェス セットです。"
+
+#: main_14.cpp:188
+msgid "So if your computer works well with this one,"
+msgstr "あなたのコンピュータがこれでうまく動作するなら、"
+
+#: main_14.cpp:190
+msgid "it will be fine with all of the others."
+msgstr "他のすべてについては問題ありません。"
+
+#: main_14.cpp:192
+msgid "Save options"
+msgstr "保存オプション"
+
+#: main_14.cpp:194
+msgid "Save 3d options"
+msgstr "3Dオプションを保存"
+
+#: main_14.cpp:196
+msgid "Select .dxo file to save 3d options"
+msgstr "3Dオプションを保存するには.dxoファイルを選択"
+
+#: main_14.cpp:198
+msgid "Load options"
+msgstr "読み込みオプション"
+
+#: main_14.cpp:200
+msgid "Load 3d options"
+msgstr "3Dオプションを読み込む"
+
+#: main_14.cpp:202
+msgid "Select .dxo file to load 3d options"
+msgstr "3Dオプションを読み込むには.dxoファイルを選択してください"
+
+#: main_14.cpp:204
+msgid "Save options..  -  Save the current 3d options to a file."
+msgstr "オプションを保存... - 現在の 3D オプションをファイルに保存します。"
+
+#: main_14.cpp:206
+msgid "Load options..  -  Load the current 3d options from a file."
+msgstr "オプションを読み込み... - ファイルから現在の 3D オプションを読み込みます。"
+
+#: main_14.cpp:208
+msgid "Save the current 3d options to a file"
+msgstr "現在の3Dオプションをファイルに保存する"
+
+#: main_14.cpp:210
+msgid "Load the current 3d options from a file"
+msgstr "ファイルから現在の3Dオプションを読み込む"
